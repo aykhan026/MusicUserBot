@@ -21,10 +21,10 @@ FULL_PLAYING_HELP =f"""[🦋]**一═デ︻ ֆɦɨռɨɢǟʍɨ Rʏʊӄ ︻デ═
 .𝔹𝕒𝕤𝕚𝕔 ℂ𝕠𝕞𝕞𝕒𝕟𝕕𝕤
 - {WHITE_COMMANDK}sing : Cavabladığınız musiqini səsli söhbətə qoşar
 - {WHITE_COMMANDK}sing : Playlisti yoxlamaq üçündə istifadə olunur
-- {WHITE_COMMANDK}now : ꜱʜᴏᴡ ᴄᴜʀʀᴇɴᴛ ᴘʟᴀʏɪɴɢ ᴛɪᴍᴇ ᴏꜰ ᴄᴜʀʀᴇɴᴛ ᴛʀᴀᴄᴋ.\n
+- {WHITE_COMMANDK}now : Oxunan musiqinin neçənci saniyədə olsuğunu göstərər.\n
 𝕆𝕨𝕟𝕖𝕣 ℂ𝕠𝕞𝕞𝕒𝕟𝕕𝕤
-- {DYNO_COMMANDK}on : ᴄᴏᴍᴍᴀɴᴅ ʟɪᴋᴇ ᴀ ʙᴏꜱꜱ ᴛᴏ ᴊᴏɪɴ ᴠᴏɪᴄᴇ ᴄʜᴀᴛ ᴏꜰ ᴄᴜʀʀᴇɴᴛ ɢʀᴏᴜᴘ.
-- {DYNO_COMMANDK}off : ʟᴇᴀᴠᴇ ᴄᴜʀʀᴇɴᴛ ᴠᴏɪᴄᴇ ᴄʜᴀᴛ ᴡʜᴇʀᴇ ɪꜱ ᴅᴊɪɴɢ.
+- {DYNO_COMMANDK}on : Səsli söhbətə qoşulacaq.
+- {DYNO_COMMANDK}off : Səsli söhbətdən çıxacaq.
 - {DYNO_COMMANDK}endvc : ᴇɴᴅ ᴛʜᴇ ᴘʟᴀʏʟɪꜱᴛ ᴀɴᴅ ꜱᴛᴏᴘ ᴀʟʟ ᴍᴜꜱɪᴄ.
 - {DYNO_COMMANDK}group : ɢᴇᴛ ᴛʜᴇ ᴠᴄ ɴᴀᴍᴇ ᴡʜᴇʀᴇ ɪꜰ ʙᴏᴛ ʜᴀꜱ ᴊᴏɪɴᴇᴅ.
 - {DYNO_COMMANDK}pause : ᴘᴀᴜꜱᴇ!.
