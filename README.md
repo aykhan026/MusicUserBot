@@ -5,7 +5,7 @@
 <img align="centre" src="http://ForTheBadge.com/images/badges/made-with-python.svg" />
 <img align="centre" src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white"/> 
 <img aligh="centre" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg"/>
-<img src="https://telegra.ph/file/2e419eca28153982c5e54.jpg" align="centre"/>
+<img src="https://telegra.ph/file/f52e92e80e10aa7fc294c.jpg" align="centre"/>
 
 
 
