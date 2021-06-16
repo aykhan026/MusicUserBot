@@ -25,7 +25,7 @@ FULL_PLAYING_HELP =f"""[🦋]**一═デ︻ ֆɦɨռɨɢǟʍɨ Rʏʊӄ ︻デ═
 𝕆𝕨𝕟𝕖𝕣 ℂ𝕠𝕞𝕞𝕒𝕟𝕕𝕤
 - {DYNO_COMMANDK}on : Səsli söhbətə qoşulacaq.
 - {DYNO_COMMANDK}off : Səsli söhbətdən çıxacaq.
-- {DYNO_COMMANDK}endvc : ᴇɴᴅ ᴛʜᴇ ᴘʟᴀʏʟɪꜱᴛ ᴀɴᴅ ꜱᴛᴏᴘ ᴀʟʟ ᴍᴜꜱɪᴄ.
+- {DYNO_COMMANDK}endvc : Musiqini dayandıracaq.
 - {DYNO_COMMANDK}group : ɢᴇᴛ ᴛʜᴇ ᴠᴄ ɴᴀᴍᴇ ᴡʜᴇʀᴇ ɪꜰ ʙᴏᴛ ʜᴀꜱ ᴊᴏɪɴᴇᴅ.
 - {DYNO_COMMANDK}pause : ᴘᴀᴜꜱᴇ!.
 - {DYNO_COMMANDK}resume : ʀᴇꜱᴜᴍᴇ!.
