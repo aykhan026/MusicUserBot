@@ -57,8 +57,8 @@ async def play_track(client, ryui: Message):
             await pwn.edit_text("♻️ Yüklənir [░░░░░░░░░░░░░░░░░░░░]")
             await pwn.delete()           
             hawk = await ryui.reply_text(
-                f"{emoji.ROBOT} Test4 "
-                f"{str(Kill_Hour)} Test5\n"
+                f"{emoji.ROBOT} Xəta"
+                f"{str(Kill_Hour)} Saatlıq musiqini qoşa bilmirəm \n"
             )
             await wait_before_rm((hawk,), Kill_Time)
             return
