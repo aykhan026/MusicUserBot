@@ -14,7 +14,7 @@ FULL_PLAYING_HELP =f"""👨🏻‍💻 **RoBotlarimTg MusicUserBot**\nMesajlar a
 - {WHITE_COMMANDK}sing : Cavabladığınız musiqini səsli söhbətə qoşar
 - {WHITE_COMMANDK}sing : Playlisti yoxlamaq üçündə istifadə olunur
 - {WHITE_COMMANDK}now : Oxunan musiqinin neçənci saniyədə olsuğunu göstərər.\n
-📣**Bütün Əmrlər**\Bu əmrlər **!** ilə işlədilir\nQeyd: Bütün əmrlərdən istifadə etmək üçün userbot olan profili qarşılıqlı kantakt edin
+📣**Bütün Əmrlər**\nBu əmrlər **!** ilə işlədilir\nQeyd: Bütün əmrlərdən istifadə etmək üçün userbot olan profili qarşılıqlı kantakt edin
 - {DYNO_COMMANDK}on : Səsli söhbətə qoşulacaq.
 - {DYNO_COMMANDK}off : Səsli söhbətdən çıxacaq.
 - {DYNO_COMMANDK}endvc : Musiqini dayandıracaq.
