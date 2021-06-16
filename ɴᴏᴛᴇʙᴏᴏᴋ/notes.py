@@ -19,8 +19,8 @@ WHITE_COMMANDK = Li.WHITE_COMMAND
 
 FULL_PLAYING_HELP =f"""[🦋]**一═デ︻ ֆɦɨռɨɢǟʍɨ Rʏʊӄ ︻デ═一**[🦋]\n𝐀𝐮𝐭𝐨𝐃𝐞𝐥𝐞𝐭𝐞 𝐢𝐧 --- 𝟑𝟎𝐬𝐞𝐜\n
 .𝔹𝕒𝕤𝕚𝕔 ℂ𝕠𝕞𝕞𝕒𝕟𝕕𝕤
-- {WHITE_COMMANDK}sing : ʀᴇᴘʟʏ ᴡɪᴛʜ ᴀɴ ᴀᴜᴅɪᴏ ᴛᴏ ᴘʟᴀʏ/Qᴜᴇᴜᴇ ɪᴛ.
-- {WHITE_COMMANDK}sing : ᴀʟꜱᴏ ᴜꜱᴇᴅ ᴛᴏ ᴄʜᴇᴄᴋ ᴘʟᴀʏʟɪꜱᴛ
+- {WHITE_COMMANDK}sing : Cavabladığınız musiqini səsli söhbətə qoşar
+- {WHITE_COMMANDK}sing : Playlisti yoxlamaq üçündə istifadə olunur
 - {WHITE_COMMANDK}now : ꜱʜᴏᴡ ᴄᴜʀʀᴇɴᴛ ᴘʟᴀʏɪɴɢ ᴛɪᴍᴇ ᴏꜰ ᴄᴜʀʀᴇɴᴛ ᴛʀᴀᴄᴋ.\n
 𝕆𝕨𝕟𝕖𝕣 ℂ𝕠𝕞𝕞𝕒𝕟𝕕𝕤
 - {DYNO_COMMANDK}on : ᴄᴏᴍᴍᴀɴᴅ ʟɪᴋᴇ ᴀ ʙᴏꜱꜱ ᴛᴏ ᴊᴏɪɴ ᴠᴏɪᴄᴇ ᴄʜᴀᴛ ᴏꜰ ᴄᴜʀʀᴇɴᴛ ɢʀᴏᴜᴘ.
