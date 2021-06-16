@@ -69,8 +69,7 @@ async def play_track(client, ryui: Message):
     # check already added
     if playlist and playlist[-1].audio.file_unique_id \
             == media_aud.audio.file_unique_id:
-        hawk = await ryui.reply_text(f"一═デ︻ **ֆɦɨռɨɢǟʍɨ_Rʏʊӄ** ︻デ═一\n"
-                                   "**Test6**"
+        hawk = await ryui.reply_text(f"**❗ Bu musiqi onsuzda playlistdə var**"
                                     )
         await wait_before_rm((hawk, ryui), Kill_Time)
         return
