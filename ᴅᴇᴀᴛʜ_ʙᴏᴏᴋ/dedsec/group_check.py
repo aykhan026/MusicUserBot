@@ -27,10 +27,10 @@ async def list_voice_chat(client, ryui: Message):
     voice_chatting = ded.voice_chatting
     if voice_chatting.is_connected:
         pwn = await ryui.reply_text("Sinxronzasiya olunur @RoBotlarimTg", True) 
-await pwn.edit_text("Serverlə əlaqə yaradılır...") 
-await pwn.edit_text("♻️ Yüklənir [░░░░░░ ]") 
-await pwn.edit_text("♻️ Yüklənir [░░░░░░░░░░░░ ]") 
-await pwn.edit_text("♻️ Yüklənir [░░░░░░░░░░░░░░░░░░░░]")         
+        await pwn.edit_text("Serverlə əlaqə yaradılır...") 
+        await pwn.edit_text("♻️ Yüklənir [░░░░░░ ]") 
+        await pwn.edit_text("♻️ Yüklənir [░░░░░░░░░░░░ ]") 
+        await pwn.edit_text("♻️ Yüklənir [░░░░░░░░░░░░░░░░░░░░]")         
         chat_id = int("-100" + str(voice_chatting.full_chat.id))
         await pwn.delete()
         chat = await client.get_chat(chat_id)
