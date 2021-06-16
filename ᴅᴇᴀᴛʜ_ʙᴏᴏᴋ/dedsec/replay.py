@@ -36,9 +36,7 @@ async def restart_playing(_, ryui: Message):
     await pwn.edit_text("♻️ Yüklənir [░░░░░░░░░░░░░░░░░░░░]")
     await pwn.delete()
     await ryui.reply_text(
-            f"一═デ︻ **ֆɦɨռɨɢǟʍɨ_Rʏʊӄ** ︻デ═一"
-            "[🦋](https://telegra.ph/file/c20d0c751ae61a68f8330.jpg)[🦋]\n\n\n"
-            "🔁ᴘʟᴀʏɪɴɢ ꜰʀᴏᴍ ᴛʜᴇ ʙᴇɢɪɴɴɪɴɢ"
+            f"🔁 **Musiqini yenidən başlatdım**"
             )
     voice_chatting.restart_playout()
     await ded.update_start_time()           
