@@ -8,11 +8,11 @@
 MusicUserBot vaistəsiylə telegramda özünüzə məxsus səsli söhbət botuna sahib olacaqsınız
 
 ## Qurulum
-Sizə lazım olanlar;
+###### Sizə lazım olanlar;
 1) Fake hesab
 2) API_ID API_HASH
 3) Session kodu
-
+##### Başlayaq
 1) Fake hesab açmağı yəginki bilirsiz
 2) API_ID və API_HASH üçün Bu linkə daxil olun https://my.telegram.org/ 
 3) Fake hesabın nömrəsini yazın 
