@@ -34,9 +34,7 @@ async def join_voice_chatting(client, ryui: Message):
         await pwn.edit_text("♻️ Yüklənir [░░░░░░░░░░░░░░░░░░░░]")   
         await pwn.delete()          
         await ryui.reply_text(
-            f"                         .一═デ︻ **ֆɦɨռɨɢǟʍɨ_Rʏʊӄ** ︻デ═一"
-            "[🦋](https://telegra.ph/file/8bdbb1581cc0914586fe2.jpg)[🦋]\n\n\n\n"
-            "                          .**ᴜꜱᴇʀʙᴏᴛ ʜᴀꜱ ᴀʟʀᴇᴀᴅʏ ᴊᴏɪɴᴇᴅ ᴠᴏɪᴄᴇ ᴄʜᴀᴛ ɪɴ**\n"
+            f"**MusicUserBot**\n✅ Qrupla əlaqə yaranıb\n"
             )   
         return        
     await voice_chatting.start(ryui.chat.id)    
