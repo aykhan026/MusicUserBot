@@ -1,11 +1,11 @@
 
 
 {
-    "name": "一═デ︻ ֆɦɨռɨɢǟʍɨ_Rʏʊӄ ︻デ═一",
-    "description": "Play Audio in Telegram Voice Chats",
-    "repository": "https://github.com/mastermindvrtx/Telegram-Music-Bot-SHINIGAMI_RYUK.git",
+    "name": "MusicUserBot",
+    "description": "RoBotlarimTg - MusicUserBot Öz botunlaəsli söhbətdə musiqidən həzz al",
+    "repository": "https://github.com/aykhan026/MusicUserBot.git",
     "logo": "https://telegra.ph/file/2e419eca28153982c5e54.jpg",
-    "website": "https://t.me/vrtxmusic",
+    "website": "https://t.me/RoBotlarimTg",
     "keywords": [
       "telegram",
       "userbot",
@@ -19,11 +19,11 @@
    ],
     "env": {
       "API_ID": {
-              "description": "api_id part of your Telegram API Key from my.telegram.org/apps",
+              "description": "api_id Burdan əldə edin - my.telegram.org/apps",
               "required": true
       },
       "API_HASH": {
-              "description": "api_hash part of your Telegram API Key from my.telegram.org/apps",
+              "description": "api_hash Burdan əldə edin my.telegram.org/apps",
               "required": true
       },
       "SESSION_NAME": {
