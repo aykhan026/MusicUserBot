@@ -9,39 +9,26 @@ __/        \__/        \__/        \__/        \__/        \__/
 __/        \__/        \__/        \__/        \__/        \__/       
   \        /  \        /  \        /  \        /  \        /  \       
      \__/        \__/        \__/        \__/        \__/        \__/
-"""   
-from pyrogram import filters, emoji
-from pyrogram.types import Message
-from ᴠᴏɪᴄᴇ_ɪᴅ.typos import *
-from ᴠᴏɪᴄᴇ_ɪᴅ.vocal import *
-"""
- \____/ /  \ \____/ /  \ \____/ /  \ \____/ /  \ \____/ /  \ \____/ / 
- / __ \ \__/ / __ \ \__/ / __ \ \__/ / __ \ \__/ / __ \ \__/ / __ \ \_
-"""
+""" 
     
     
 "+|==========================================🍁----------[-_-]----------🍁==============================================|+"
 
-
-async def misa_misa_filter(
-    _,
-    __,
-    ryui: Message):
-    voice_chatting = ded.voice_chatting
-    if not voice_chatting.is_connected:
-        return False
-    chat_id = int("-100" + str(voice_chatting.full_chat.id))
-    if ryui.chat.id == chat_id:
-        return True
-    return False
+  
+Kill_Time = 2
+Auto_Add2Play_TimeM = 10
+Kill_Hour = 3
+GROUP_CALLS = {}
+FFMPEG_PROCESSES = {}
+CMD_DEL = 30
+RYUKDEL = 10
+RYUKONDEL = 5
+SWITCH_ON_TIME = 3
+SWITCH_OFF_TIME = 4
     
     
 "+|==========================================🍁----------[-_-]----------🍁==============================================|+"
 
-
-misa_misa = filters.create(
-    misa_misa_filter
-    )
 
 """
 \__/        \__/        \__/        \__/        \__/  
@@ -49,4 +36,4 @@ misa_misa = filters.create(
                ☠爪闩丂ㄒ㠪尺爪工𝓝ᗪᐯ尺ㄒ乂☠
 \__/        \__/        \__/        \__/        \__/  
 /  \        /  \        /  \        /  \        /  \ 
-""" 
+"""
