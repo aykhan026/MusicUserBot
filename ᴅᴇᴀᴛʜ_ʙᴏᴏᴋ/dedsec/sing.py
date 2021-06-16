@@ -84,9 +84,7 @@ async def play_track(client, ryui: Message):
         await pwn.edit_text("♻️ Yüklənir [░░░░░░░░░░░░░░░░░░░░]")
         await pwn.delete() 
         m_status = await ryui.reply_text(
-            f"一═デ︻ **ֆɦɨռɨɢǟʍɨ_Rʏʊӄ** ︻デ═一"
-            "[🦋](https://telegra.ph/file/8bdbb1581cc0914586fe2.jpg)[🦋]\n"            
-            "**Test7**"
+            f"**Musiqini qoşuram səbirli olun**"
         )
         await ded.download_audio(playlist[0])
         voice_chatting.input_filename = os.path.join(
