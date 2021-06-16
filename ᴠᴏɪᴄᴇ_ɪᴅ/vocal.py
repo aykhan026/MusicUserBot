@@ -49,7 +49,7 @@ class DeathCharm(object):
                 pl = f"""✨**Oxunur**✨:\n
 """
             pl += "\n".join([
-                f"🎶 **{i}**. **[{x.audio.title}**"
+                f"🎶 **{i}**. **{x.audio.title}**"
                 for i, x in enumerate(playlist)
             ])
         if self.msg.get('playlist') is not None:
