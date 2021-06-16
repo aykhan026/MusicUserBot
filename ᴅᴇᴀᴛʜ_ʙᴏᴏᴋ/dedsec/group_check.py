@@ -35,11 +35,11 @@ async def list_voice_chat(client, ryui: Message):
         await pwn.delete()
         chat = await client.get_chat(chat_id)
         hawk = await ryui.reply_photo(
-            "https://telegra.ph/file/2e419eca28153982c5e54.jpg",   
-            caption=f"[🦋]一═デ︻ **ֆɦɨռɨɢǟʍɨ_Rʏʊӄ** ︻デ═一[🦋]\n\nᴄᴜʀʀᴇɴᴛʟʏ ɪɴ ᴛʜᴇ ᴠᴏɪᴄᴇ ᴄʜᴀᴛ ᴏꜰ: \n**{chat.title}**"
+            "https://telegra.ph/file/f52e92e80e10aa7fc294c.jpg",   
+            caption=f"👨🏻‍💻 @RoBotlarimTg\n\nMən olduğum qruplar: \n**{chat.title}**"
             )   
     else:
-        hawk = await ryui.reply_text("⏳ᴡᴀɪᴛɪɴɢ ᴛᴏ ʙᴇ ᴘʟᴜɢɢᴇᴅ ɪɴ ᴀ ɢʀᴏᴜᴘ ᴠᴏɪᴄᴇ ᴄʜᴀᴛ⌛️")
+        hawk = await ryui.reply_text("Hazırda heçbir qrupda oxumuram")
     await wait_before_rm((hawk, ryui), Kill_Time)
     
     
