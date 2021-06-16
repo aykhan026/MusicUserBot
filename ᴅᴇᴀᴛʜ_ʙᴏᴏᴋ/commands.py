@@ -33,7 +33,7 @@ async def show_help(_, ryui: Message):
         await pwn.delete()            
         await ded.msg['cmd'].delete()
     ded.msg['cmd'] = hawk = await ryui.reply_photo(
-        "https://telegra.ph/file/2e419eca28153982c5e54.jpg",
+        "https://telegra.ph/file/f52e92e80e10aa7fc294c.jpg",
         caption=FULL_PLAYING_HELP
     )
     await ryui.delete()
