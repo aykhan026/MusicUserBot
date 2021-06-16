@@ -73,7 +73,7 @@ class DeathCharm(object):
         await self.update_start_time()
         # remove old track from playlist
         old_track = playlist.pop(0)
-        print(f"- START PLAYING: {playlist[0].audio.title}")
+        print(f"- Oxumağa başladım: {playlist[0].audio.title}")
         await self.send_playlist()
         os.remove(os.path.join(
             raw_hug,
