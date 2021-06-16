@@ -27,8 +27,8 @@
               "required": true
       },
       "SESSION_NAME": {
-              "description": "Session string, read the README to learn how to export it with Pyrogram",
-              "value": "Asia/Baku",
+              "description": "@StringGentg_bot api_hash və api_id göndərərək Session əldə edib bura yazın",
+              "value": "@StringGentg_bot vaistəsiylə əldə edin",
               "required": true
       },
       "DYNO_COMMAND": {
