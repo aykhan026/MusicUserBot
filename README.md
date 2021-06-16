@@ -19,24 +19,24 @@ MusicUserBot vaistəsiylə telegramda özünüzə məxsus səsli söhbət botuna
 4) Hesaba gedən kodu sayta yazın və hesaba giriş edin 
 5) Giriş etdikdən sonra boş xanalara nə istəsəniz yazın
 6) Ən sonda API_ID və API_HASH verəcək kopyalıyıb bir yerə qeyd edin
+7) Telegramda @StringGentg_bot -a daxil oluruq
+8) Start verib API_ID və API_HASH növbəylə göndəririk
+9) Ən sonda fake hesabınızın nömrəsini yazın və hesaba gedən doğrulama kodunu yazın (doğrulama kodu yazarkən rəqəmlər arası boşluq buraxın)
+10) Və ən sonda Session kodunuz fake hesabın kaydedilmə bölməsində olacaq 
+11) Artıq hər şey tamamdır Deploy buttonuna vuraraq MusicUserBotu heroku hesabınıza deploy edin )
+
+-📍 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/aykhan026/MusicUserBot.git)
 
 
-
-
--📍 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/aykhan026/MusicUserBot.git) Enable the dyno in heroku if u deployed ur bot in Heroku
-
--📍 [🐳 𝗗𝗢𝗖𝗞𝗘𝗥-𝗖𝗢𝗡𝗧𝗔𝗜𝗡𝗘𝗥 🐳](Dockerfile)
-
-## ♢----------------------------------------------> ℂ𝕆𝕄𝕄𝔸ℕ𝔻𝕊 •°*”
-
-/* 𝘔𝘦𝘮𝘦𝘣𝘦𝘳 𝘊𝘰𝘮𝘮𝘢𝘯𝘥𝘴
+## Əmrlər
+/* İstifadəçilər üçün
 ```sh
 .sing:      *- Reply with an audio to play/queue it.Also used to check playlist.
 .now:       *- Show playing time of current track.
 .cmd:       *- used to show all bot commands.
 
 ```
-/* 𝘈𝘥𝘮𝘪𝘯 & 𝘖𝘸𝘯𝘦𝘳 𝘊𝘰𝘮𝘮𝘢𝘯𝘥𝘴 
+/* Admin və Sahib üçün 
 ```sh
 /on:        *- Command like a boss to join voice chat of current group.
 /off:       *- Leave current voice chat where is DJing.
@@ -51,20 +51,3 @@ MusicUserBot vaistəsiylə telegramda özünüzə məxsus səsli söhbət botuna
 ```
 
 
-## ♢----------------------------------------------> ʀɛʟɛǟֆɛֆ
-- [![Generic badge](https://img.shields.io/badge/Release-v8_stable-purple.svg)](https://github.com/mastermindvrtx/Telegram-Music-Bot-SHINIGAMI_RYUK/releases/tag/v8_stable)- [![Generic badge](https://img.shields.io/badge/Release-v7.1_preRelease-blue.svg)](https://github.com/mastermindvrtx/Telegram-Music-Bot-SHINIGAMI_RYUK/releases/tag/v7_Stable)- [![Generic badge](https://img.shields.io/badge/Release-v6_Stable_Dockerized-lightblue.svg)](https://github.com/mastermindvrtx/Telegram-Music-Bot-SHINIGAMI_RYUK/releases/tag/v6_Stable)- [![Generic badge](https://img.shields.io/badge/Release-v7_Beta-orange.svg)](https://github.com/mastermindvrtx/Telegram-Music-Bot-SHINIGAMI_RYUK/releases/tag/v7_beta)- [![Generic badge](https://img.shields.io/badge/Release-init-black.svg)](https://github.com/mastermindvrtx/Telegram-Music-Bot-SHINIGAMI_RYUK/releases/tag/init)
-
-## ♢----------------------------------------------> LICENSE 💢 
-* Telegram-Music-Bot-SHINIGAMI_RYUK is licensed under the GNU General Public License v3.0 [GNU_V3.0](LICENSE)
-```sh
-* Permissions 💢
-
-✔ Commercial use
-✔ Modification
-✔ Distribution
-✔ Patent use
-✔ Private use 
-```
-
-<img src="https://telegra.ph/file/2e419eca28153982c5e54.jpg" align="centre"/>
-🍁|===================== ʍǟֆȶɛʀʍɨռɖ-ʋʀȶӼ -_- =====================|+🍁
