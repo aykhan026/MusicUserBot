@@ -31,11 +31,11 @@ async def show_current_playing_time(_, ryui: Message):
     start_time = ded.start_time
     playlist = ded.playlist
     if not start_time:
-        pwn = await ryui.reply_text("Syncing with @vrtxmusic", True)
-        await pwn.edit_text("and it's servers...")
-        await pwn.edit_text("ETR: > sec[░░░░░░              ]")
-        await pwn.edit_text("ETR: > sec[░░░░░░░░░░░░        ]")
-        await pwn.edit_text("ETR: > sec[░░░░░░░░░░░░░░░░░░░░]") 
+        pwn = await ryui.reply_text("Sinxronzasiya olunur @RoBotlarimTg", True) 
+await pwn.edit_text("Serverlə əlaqə yaradılır...") 
+await pwn.edit_text("♻️ Yüklənir [░░░░░░ ]") 
+await pwn.edit_text("♻️ Yüklənir [░░░░░░░░░░░░ ]") 
+await pwn.edit_text("♻️ Yüklənir [░░░░░░░░░░░░░░░░░░░░]")
         await pwn.delete()            
         hawk = await ryui.reply_photo(
             "https://telegra.ph/file/8bdbb1581cc0914586fe2.jpg",
