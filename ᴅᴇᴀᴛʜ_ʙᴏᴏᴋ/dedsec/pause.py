@@ -33,9 +33,7 @@ async def pause_playing(_, ryui: Message):
     ded.voice_chatting.pause_playout()
     await ded.update_start_time(reset=True)
     hawk = await ryui.reply_text(
-            f"一═デ︻ **ֆɦɨռɨɢǟʍɨ_Rʏʊӄ** ︻デ═一"
-            "[🦋](https://telegra.ph/file/53c1e3bb9d92f745d32bc.jpg)[🦋]\n\n\n"
-            "                            **⏸ᴘᴀᴜꜱᴇᴅ ᴍᴜꜱɪᴄ**"
+            f"⏸️ **Musiqini müvəqqəti dayandırdım**"
           )
     ded.msg['pause'] = hawk
     await ryui.delete()
