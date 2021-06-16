@@ -43,13 +43,13 @@ class DeathCharm(object):
             pl = f"{emoji.NO_ENTRY}**Playlist yoxdur**"
         else:
             if len(playlist) == 1:
-                pl = f"""✨**Oxunur**✨:-\n
+                pl = f"""✨**Oxunur**✨:\n
 """
             else:
-                pl = f"""✨**Oxunur**✨:-\n
+                pl = f"""✨**Oxunur**✨:\n
 """
             pl += "\n".join([
-                f"**{i}**. **[{x.audio.title}({x.link})**"
+                f"🎶 **{i}**. **[{x.audio.title}**"
                 for i, x in enumerate(playlist)
             ])
         if self.msg.get('playlist') is not None:
