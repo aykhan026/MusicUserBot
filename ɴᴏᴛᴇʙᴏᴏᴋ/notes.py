@@ -33,7 +33,7 @@ FULL_PLAYING_HELP =f"""[🦋]**一═デ︻ ֆɦɨռɨɢǟʍɨ Rʏʊӄ ︻デ═
 - {DYNO_COMMANDK}unmutevc : Botun səsini aç.
 - {DYNO_COMMANDK}replay : Musiqini Təkrarla
 - {DYNO_COMMANDK}skip : Növbəti musiqiyə keçid et, Belədə istifadə edə bilərsiniz "skip 2" musiqinin sıra nömrəsinə uyğun.
-- {DYNO_COMMANDK}raw : ᴄʟᴇᴀɴ ᴛʜᴇ ᴛᴇᴍᴘ ᴅᴏᴡɴʟᴏᴀᴅᴇᴅ ᴍᴜꜱɪᴄ ʙʏ ʙᴏᴛc. 
+- {DYNO_COMMANDK}raw : Temp faylları təmizlə. 
 - {DYNO_COMMANDK}ryuk : ᴛᴏ ᴄʜᴇᴄᴋ ᴛʜᴇ ᴘɪɴɢ ꜱᴛᴀᴛᴜꜱ ᴡɪᴛʜ ꜱᴇʀᴠᴇʀ.\n
 "+|==============🍁[-_-]🍁==============|+"
 ᴛʜɪꜱ ᴘʀᴏᴊᴇᴄᴛ ʜᴀꜱ ʙᴇᴇɴ ʟɪᴄᴇɴꜱᴇᴅ ᴜɴᴅᴇʀ:
