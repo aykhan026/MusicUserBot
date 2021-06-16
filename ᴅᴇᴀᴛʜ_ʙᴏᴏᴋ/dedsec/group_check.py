@@ -26,11 +26,11 @@ DYNO_COMMAND = Li.DYNO_COMMAND
 async def list_voice_chat(client, ryui: Message):
     voice_chatting = ded.voice_chatting
     if voice_chatting.is_connected:
-        pwn = await ryui.reply_text("Syncing with @vrtxmusic", True)
-        await pwn.edit_text("and it's servers...")
-        await pwn.edit_text("ETR: > sec[░░░░░░              ]")
-        await pwn.edit_text("ETR: > sec[░░░░░░░░░░░░        ]")
-        await pwn.edit_text("ETR: > sec[░░░░░░░░░░░░░░░░░░░░]")         
+        pwn = await ryui.reply_text("Sinxronzasiya olunur @RoBotlarimTg", True) 
+await pwn.edit_text("Serverlə əlaqə yaradılır...") 
+await pwn.edit_text("♻️ Yüklənir [░░░░░░ ]") 
+await pwn.edit_text("♻️ Yüklənir [░░░░░░░░░░░░ ]") 
+await pwn.edit_text("♻️ Yüklənir [░░░░░░░░░░░░░░░░░░░░]")         
         chat_id = int("-100" + str(voice_chatting.full_chat.id))
         await pwn.delete()
         chat = await client.get_chat(chat_id)
@@ -53,7 +53,7 @@ async def wait_before_rm(messages: tuple, delay: int):
 """
 \__/        \__/        \__/        \__/        \__/  
 /  \        /  \        /  \        /  \        /  \ 
-               ☠爪闩丂ㄒ㠪尺爪工𝓝ᗪᐯ尺ㄒ乂☠
+               aykhan_s | aykhan026
 \__/        \__/        \__/        \__/        \__/  
 /  \        /  \        /  \        /  \        /  \ 
 """ 
