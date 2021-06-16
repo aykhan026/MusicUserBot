@@ -46,15 +46,15 @@ self_or_contact_filter = filters.create(
                    ) 
 async def ping_pong(_, ryui: Message):
     start = time()
-    pwn = await ryui.reply_text("Syncing with @vrtxmusic", True)
-    await pwn.edit_text("and it's servers...")
-    await pwn.edit_text("ETR: > sec[░░░░░░              ]")
-    await pwn.edit_text("ETR: > sec[░░░░░░░░░░░░        ]")
-    await pwn.edit_text("ETR: > sec[░░░░░░░░░░░░░░░░░░░░]")
+    pwn = await ryui.reply_text("Sinxronzasiya olunur @RoBotlarimTg", True)
+    await pwn.edit_text("Serverlə əlaqə qurulur...")
+    await pwn.edit_text("♻️ Yüklənir [░░░░░░              ]")
+    await pwn.edit_text("♻️ Yüklənir [░░░░░░░░░░░░        ]")
+    await pwn.edit_text("♻️ Yüklənir [░░░░░░░░░░░░░░░░░░░░]")
     delta_ping = time() - start
     hawk = await pwn.edit_text(
-        f"""一═デ︻ **ֆɦɨռɨɢǟʍɨ_Rʏʊӄ** ︻デ═一[🦋](https://telegra.ph/file/8bdbb1581cc0914586fe2.jpg)[🦋]
-by~ @mastermindvrtx\n        
+        f"""**RoBotlarimTg**[🦋](https://telegra.ph/file/8bdbb1581cc0914586fe2.jpg)[🦋]
+👨🏻‍💻 @aykhan_s\n        
 **🏻 ɪ ᴀᴍ ᴀʟɪᴠᴇ ᴀɴᴅ ʀᴇᴀᴅʏ ᴛᴏ ᴘʟᴀʏ ɪɴ ᴠᴄ 🏻**:
         `{delta_ping * 1000:.3f}ms`"""
     )
@@ -73,7 +73,7 @@ async def delete_ryuk(messages: tuple, delay: int):
   \        /  \        /  \        /  \        /  \        /  \       
      \__/        \__/        \__/        \__/        \__/        \__/
      /  \        /  \        /  \        /  \        /  \        /  \
-               ☠爪闩丂ㄒ㠪尺爪工𝓝ᗪᐯ尺ㄒ乂☠
+  🇦🇿👉   \  aykhan_s \  bu tağı hələ çox yerdə görəcəksiniz...) /
 __/        \__/        \__/        \__/        \__/        \__/       
   \        /  \        /  \        /  \        /  \        /  \       
      \__/        \__/        \__/        \__/        \__/        \__/
