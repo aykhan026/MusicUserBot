@@ -29,25 +29,27 @@ MusicUserBot vaistəsiylə telegramda özünüzə məxsus səsli söhbət botuna
 
 
 ## Əmrlər
-/* İstifadəçilər üçün
+👨🏻‍🦱 İstifadəçilər üçün
 ```sh
-.sing:      *- Reply with an audio to play/queue it.Also used to check playlist.
-.now:       *- Show playing time of current track.
-.cmd:       *- used to show all bot commands.
+.sing:      *- Cavabladığınız musiqini səsli söhbətə qoşar, Playlisti yoxlamaq üçündə istifadə olunur
+.now:       *- Oxunan musiqinin neçənci saniyədə olsuğunu göstərər..
+.cmd:       *- Bütün əmrləri göstərir.
 
 ```
-/* Admin və Sahib üçün 
+👮‍♂️ Admin və Sahib üçün 
 ```sh
-/on:        *- Command like a boss to join voice chat of current group.
-/off:       *- Leave current voice chat where is DJing.
-/check:     *- Check which VC is joined by the bot.
-/end:       *- To stop playing the song being played.
-/pause:     *- Pause playing.
-/resume:    *- Resume playing.
-/replay:    *- Play from the beginning with.
-/skip:      *- Skip the current or skip n(n=>2).
-/temp:      *- Remove unused RAW files. 
-/ryuk:      *- To check the ping status with server.
+- !on : Səsli söhbətə qoşulacaq.
+- !off : Səsli söhbətdən çıxacaq.
+- !endvc : Musiqini dayandıracaq.
+- !group : Olduğu qrupları göstərəcək.
+- !pause : Musiqini müvəqqəti dayandır.
+- !resume : Dayanmış musiqini yenidən ifa et.
+- !mutevc : Botu əssizə al.
+- !unmutevc : Botun səsini aç.
+- !replay : Musiqini Təkrarla
+- !skip : Növbəti musiqiyə keçid et, Belədə istifadə edə bilərsiniz "skip 2" musiqinin sıra nömrəsinə uyğun.
+- !raw : Temp faylları təmizlə. 
+- !ryuk : Serverdəki ping i yoxla.
 ```
 
 
