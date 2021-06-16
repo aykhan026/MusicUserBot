@@ -18,11 +18,11 @@ WHITE_COMMANDK = Li.WHITE_COMMAND
 
 
 FULL_PLAYING_HELP =f"""👨🏻‍💻 **RoBotlarimTg MusicUserBot**\nMesajlar avtomatik silinir\n
-.
+.Əsas Əmrlər
 - {WHITE_COMMANDK}sing : Cavabladığınız musiqini səsli söhbətə qoşar
 - {WHITE_COMMANDK}sing : Playlisti yoxlamaq üçündə istifadə olunur
 - {WHITE_COMMANDK}now : Oxunan musiqinin neçənci saniyədə olsuğunu göstərər.\n
-𝕆𝕨𝕟𝕖𝕣 ℂ𝕠𝕞𝕞𝕒𝕟𝕕𝕤
+Bütün Əmrlər
 - {DYNO_COMMANDK}on : Səsli söhbətə qoşulacaq.
 - {DYNO_COMMANDK}off : Səsli söhbətdən çıxacaq.
 - {DYNO_COMMANDK}endvc : Musiqini dayandıracaq.
@@ -35,11 +35,10 @@ FULL_PLAYING_HELP =f"""👨🏻‍💻 **RoBotlarimTg MusicUserBot**\nMesajlar a
 - {DYNO_COMMANDK}skip : Növbəti musiqiyə keçid et, Belədə istifadə edə bilərsiniz "skip 2" musiqinin sıra nömrəsinə uyğun.
 - {DYNO_COMMANDK}raw : Temp faylları təmizlə. 
 - {DYNO_COMMANDK}ryuk : Serverdəki ping i yoxla.\n
-"+|==============🍁[-_-]🍁==============|+"
-ᴛʜɪꜱ ᴘʀᴏᴊᴇᴄᴛ ʜᴀꜱ ʙᴇᴇɴ ʟɪᴄᴇɴꜱᴇᴅ ᴜɴᴅᴇʀ:
-          [𝔾ℕ𝕌 𝔾𝔼ℕ𝔼ℝ𝔸𝕃 ℙ𝕌𝔹𝕃𝕀ℂ 𝕃𝕀ℂ𝔼ℕ𝕊𝔼](https://github.com/mastermindvrtx/Telegram-Music-Bot-SHINIGAMI_RYUK/blob/Vrtx/LICENSE)
-             𝕍𝕖𝕣𝕤𝕚𝕠𝕟 𝟛, 𝟚𝟡 𝕁𝕦𝕟𝕖 𝟚𝟘𝟘𝟟     
-βч  ♝🍧 @mastermindvrtx
+👉Yeniləmələr üçün kanala abunə olun
+@RoBotlarimTg
+👨🏻‍💻Sahib
+@aykhan_s
 """
 
 
