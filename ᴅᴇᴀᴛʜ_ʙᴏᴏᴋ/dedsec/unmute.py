@@ -45,5 +45,5 @@ async def delay_unmute_tm(messages: tuple, delay: int):
     for msg in messages:
         await msg.delete()
 """
-☠爪闩丂ㄒ㠪尺爪工𝓝ᗪᐯ尺ㄒ乂☠
+☠aykhan_s
 """ 
