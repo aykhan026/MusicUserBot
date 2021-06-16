@@ -4,8 +4,7 @@
 
 
 
-## ♢----------------------------------------------> ωну ιѕ тнιѕ вσт ?? 🤖
- - © This is a Telegram userbot that can play music in voice chat.
+## Qeyd
 ## ωσякιηg ιηѕтαη¢є ? 🚀
 - [![Generic badge](https://img.shields.io/badge/@vrtxmusic-group-white.svg)](https://t.me/vrtxmusic) The working userbot instance can be found here 
                                                             
