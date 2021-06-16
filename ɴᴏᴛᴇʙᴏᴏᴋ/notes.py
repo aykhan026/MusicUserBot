@@ -17,8 +17,8 @@ DYNO_COMMANDK = Li.DYNO_COMMAND
 WHITE_COMMANDK = Li.WHITE_COMMAND
 
 
-FULL_PLAYING_HELP =f"""[🦋]**一═デ︻ ֆɦɨռɨɢǟʍɨ Rʏʊӄ ︻デ═一**[🦋]\n𝐀𝐮𝐭𝐨𝐃𝐞𝐥𝐞𝐭𝐞 𝐢𝐧 --- 𝟑𝟎𝐬𝐞𝐜\n
-.𝔹𝕒𝕤𝕚𝕔 ℂ𝕠𝕞𝕞𝕒𝕟𝕕𝕤
+FULL_PLAYING_HELP =f"""👨🏻‍💻 **RoBotlarimTg MusicUserBot**\nMesajlar avtomatik silinir\n
+.
 - {WHITE_COMMANDK}sing : Cavabladığınız musiqini səsli söhbətə qoşar
 - {WHITE_COMMANDK}sing : Playlisti yoxlamaq üçündə istifadə olunur
 - {WHITE_COMMANDK}now : Oxunan musiqinin neçənci saniyədə olsuğunu göstərər.\n
