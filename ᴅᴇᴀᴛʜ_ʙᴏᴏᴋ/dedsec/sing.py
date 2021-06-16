@@ -33,11 +33,11 @@ async def play_track(client, ryui: Message):
     # check audio
     if ryui.audio:
         if ryui.audio.duration > (Auto_Add2Play_TimeM * 60):
-            pwn = await ryui.reply_text("Syncing with @vrtxmusic", True)
-            await pwn.edit_text("and it's servers...")
-            await pwn.edit_text("ETR: > sec[░░░░░░              ]")
-            await pwn.edit_text("ETR: > sec[░░░░░░░░░░░░        ]")
-            await pwn.edit_text("ETR: > sec[░░░░░░░░░░░░░░░░░░░░]")
+            pwn = await ryui.reply_text("Sinxronzasiya olunur @RoBotlarimTg", True) 
+await pwn.edit_text("Serverlə əlaqə yaradılır...") 
+await pwn.edit_text("♻️ Yüklənir [░░░░░░ ]") 
+await pwn.edit_text("♻️ Yüklənir [░░░░░░░░░░░░ ]") 
+await pwn.edit_text("♻️ Yüklənir [░░░░░░░░░░░░░░░░░░░░]")
             await pwn.delete()                   
             hawk = await ryui.reply_text(
                 f"{emoji.ROBOT} ᴀᴜᴅɪᴏ ᴡʜɪᴄʜ ᴅᴜʀᴀᴛɪᴏɴ ʟᴏɴɢᴇʀ ᴛʜᴀɴ "
@@ -50,11 +50,11 @@ async def play_track(client, ryui: Message):
     elif ryui.reply_to_message and ryui.reply_to_message.audio:
         media_aud = ryui.reply_to_message
         if media_aud.audio.duration > (Kill_Hour * 60 * 60):
-            pwn = await ryui.reply_text("Syncing with @vrtxmusic", True)
-            await pwn.edit_text("and it's servers...")
-            await pwn.edit_text("ETR: > sec[░░░░░░              ]")
-            await pwn.edit_text("ETR: > sec[░░░░░░░░░░░░        ]")
-            await pwn.edit_text("ETR: > sec[░░░░░░░░░░░░░░░░░░░░]")  
+            pwn = await ryui.reply_text("Sinxronzasiya olunur @RoBotlarimTg", True) 
+await pwn.edit_text("Serverlə əlaqə yaradılır...") 
+await pwn.edit_text("♻️ Yüklənir [░░░░░░ ]") 
+await pwn.edit_text("♻️ Yüklənir [░░░░░░░░░░░░ ]") 
+await pwn.edit_text("♻️ Yüklənir [░░░░░░░░░░░░░░░░░░░░]")
             await pwn.delete()           
             hawk = await ryui.reply_text(
                 f"{emoji.ROBOT} ᴀᴜᴅɪᴏ ᴡʜɪᴄʜ ᴅᴜʀᴀᴛɪᴏɴ ʟᴏɴɢᴇʀ ᴛʜᴀɴ "
@@ -77,11 +77,11 @@ async def play_track(client, ryui: Message):
     # add to playlist
     playlist.append(media_aud)
     if len(playlist) == 1:
-        pwn = await ryui.reply_text("Syncing with @vrtxmusic", True)
-        await pwn.edit_text("and it's servers...")
-        await pwn.edit_text("ETR: > sec[░░░░░░              ]")
-        await pwn.edit_text("ETR: > sec[░░░░░░░░░░░░        ]")
-        await pwn.edit_text("ETR: > sec[░░░░░░░░░░░░░░░░░░░░]")
+        pwn = await ryui.reply_text("Sinxronzasiya olunur @RoBotlarimTg", True) 
+await pwn.edit_text("Serverlə əlaqə yaradılır...") 
+await pwn.edit_text("♻️ Yüklənir [░░░░░░ ]") 
+await pwn.edit_text("♻️ Yüklənir [░░░░░░░░░░░░ ]") 
+await pwn.edit_text("♻️ Yüklənir [░░░░░░░░░░░░░░░░░░░░]")
         await pwn.delete() 
         m_status = await ryui.reply_text(
             f"一═デ︻ **ֆɦɨռɨɢǟʍɨ_Rʏʊӄ** ︻デ═一"
@@ -96,7 +96,7 @@ async def play_track(client, ryui: Message):
         )
         await ded.update_start_time()
         await m_status.delete()
-        print(f"- PLAYING: {playlist[0].audio.title}")
+        print(f"- Oxunan: {playlist[0].audio.title}")
     await ded.send_playlist()
     for track in playlist[:2]:
         await ded.download_audio(track)
@@ -114,7 +114,7 @@ async def wait_before_rm(messages: tuple, delay: int):
 """
 \__/        \__/        \__/        \__/        \__/  
 /  \        /  \        /  \        /  \        /  \ 
-               ☠爪闩丂ㄒ㠪尺爪工𝓝ᗪᐯ尺ㄒ乂☠
+             🤦🏻‍♂️   aykhan_s☠
 \__/        \__/        \__/        \__/        \__/  
 /  \        /  \        /  \        /  \        /  \ 
 """ 
