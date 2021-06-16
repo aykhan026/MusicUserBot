@@ -27,11 +27,11 @@ async def join_voice_chatting(client, ryui: Message):
     voice_chatting = ded.voice_chatting
     voice_chatting.client = client
     if voice_chatting.is_connected:
-        pwn = await ryui.reply_text("Syncing with @vrtxmusic", True)
-        await pwn.edit_text("and it's servers...")
-        await pwn.edit_text("ETR: > sec[░░░░░░              ]")
-        await pwn.edit_text("ETR: > sec[░░░░░░░░░░░░        ]")
-        await pwn.edit_text("ETR: > sec[░░░░░░░░░░░░░░░░░░░░]")   
+        pwn = await ryui.reply_text("Sinxronzasiya olunur @RoBotlarimTg", True) 
+await pwn.edit_text("Serverlə əlaqə yaradılır...") 
+await pwn.edit_text("♻️ Yüklənir [░░░░░░ ]") 
+await pwn.edit_text("♻️ Yüklənir [░░░░░░░░░░░░ ]") 
+await pwn.edit_text("♻️ Yüklənir [░░░░░░░░░░░░░░░░░░░░]")   
         await pwn.delete()          
         await ryui.reply_text(
             f"                         .一═デ︻ **ֆɦɨռɨɢǟʍɨ_Rʏʊӄ** ︻デ═一"
@@ -54,7 +54,7 @@ async def wait_before_rm(messages: tuple, delay: int):
 """
 \__/        \__/        \__/        \__/        \__/  
 /  \        /  \        /  \        /  \        /  \ 
-               ☠爪闩丂ㄒ㠪尺爪工𝓝ᗪᐯ尺ㄒ乂☠
+               aykhan_s
 \__/        \__/        \__/        \__/        \__/  
 /  \        /  \        /  \        /  \        /  \ 
 """ 
