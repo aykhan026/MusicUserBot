@@ -26,12 +26,12 @@ DYNO_COMMAND = Li.DYNO_COMMAND
                    & filters.command("endvc", prefixes=DYNO_COMMAND)
                    ) 
 async def stop_playing(_, ryui: Message):
-    pwn = await ryui.reply_text("Syncing with @vrtxmusic", True)
-    await pwn.edit_text("and it's servers...")
-    await pwn.edit_text("ETR: > sec[░░░░░░              ]")
-    await pwn.edit_text("ETR: > sec[░░░░░░░░░░░░        ]")
-    await pwn.edit_text("ETR: > sec[░░░░░░░░░░░░░░░░░░░░]")
-    await pwn.delete()
+    pwn = await ryui.reply_text("Sinxronzasiya olunur @RoBotlarimTg", True) 
+await pwn.edit_text("Serverlə əlaqə yaradılır...") 
+await pwn.edit_text("♻️ Yüklənir [░░░░░░ ]") 
+await pwn.edit_text("♻️ Yüklənir [░░░░░░░░░░░░ ]") 
+await pwn.edit_text("♻️ Yüklənir [░░░░░░░░░░░░░░░░░░░░]") 
+await pwn.delete()
     voice_chatting = ded.voice_chatting
     voice_chatting.stop_playout()
     hawk = await ryui.reply_photo(
@@ -53,7 +53,7 @@ async def wait_before_rm(messages: tuple, delay: int):
 """
 \__/        \__/        \__/        \__/        \__/  
 /  \        /  \        /  \        /  \        /  \ 
-               ☠爪闩丂ㄒ㠪尺爪工𝓝ᗪᐯ尺ㄒ乂☠
+            🔞çox qurdalama🔞  aykhan_s 🙋🏻‍♂️
 \__/        \__/        \__/        \__/        \__/  
 /  \        /  \        /  \        /  \        /  \ 
 """ 
