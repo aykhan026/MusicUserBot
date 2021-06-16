@@ -38,8 +38,8 @@ async def show_current_playing_time(_, ryui: Message):
         await pwn.edit_text("♻️ Yüklənir [░░░░░░░░░░░░░░░░░░░░]")
         await pwn.delete()            
         hawk = await ryui.reply_photo(
-            "https://telegra.ph/file/8bdbb1581cc0914586fe2.jpg",
-            caption="[🦋]**ɴᴏᴛʜɪɴɢ ɪꜱ ɪɴ ᴘʟᴀʏʟɪꜱᴛ ʏᴇᴛ!**[🦋]"
+            "https://telegra.ph/file/f52e92e80e10aa7fc294c.jpg",
+            caption="👨🏻‍💻 @RoBotlarımTg"
         )
         await wait_before_rm((hawk,), Kill_Time)                 
         return
