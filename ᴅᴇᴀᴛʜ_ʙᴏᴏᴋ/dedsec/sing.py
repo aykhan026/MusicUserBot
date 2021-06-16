@@ -34,10 +34,10 @@ async def play_track(client, ryui: Message):
     if ryui.audio:
         if ryui.audio.duration > (Auto_Add2Play_TimeM * 60):
             pwn = await ryui.reply_text("Sinxronzasiya olunur @RoBotlarimTg", True) 
-await pwn.edit_text("Serverlə əlaqə yaradılır...") 
-await pwn.edit_text("♻️ Yüklənir [░░░░░░ ]") 
-await pwn.edit_text("♻️ Yüklənir [░░░░░░░░░░░░ ]") 
-await pwn.edit_text("♻️ Yüklənir [░░░░░░░░░░░░░░░░░░░░]")
+            await pwn.edit_text("Serverlə əlaqə yaradılır...") 
+            await pwn.edit_text("♻️ Yüklənir [░░░░░░ ]") 
+            await pwn.edit_text("♻️ Yüklənir [░░░░░░░░░░░░ ]") 
+            await pwn.edit_text("♻️ Yüklənir [░░░░░░░░░░░░░░░░░░░░]")
             await pwn.delete()                   
             hawk = await ryui.reply_text(
                 f"{emoji.ROBOT} ᴀᴜᴅɪᴏ ᴡʜɪᴄʜ ᴅᴜʀᴀᴛɪᴏɴ ʟᴏɴɢᴇʀ ᴛʜᴀɴ "
@@ -51,10 +51,10 @@ await pwn.edit_text("♻️ Yüklənir [░░░░░░░░░░░░░�
         media_aud = ryui.reply_to_message
         if media_aud.audio.duration > (Kill_Hour * 60 * 60):
             pwn = await ryui.reply_text("Sinxronzasiya olunur @RoBotlarimTg", True) 
-await pwn.edit_text("Serverlə əlaqə yaradılır...") 
-await pwn.edit_text("♻️ Yüklənir [░░░░░░ ]") 
-await pwn.edit_text("♻️ Yüklənir [░░░░░░░░░░░░ ]") 
-await pwn.edit_text("♻️ Yüklənir [░░░░░░░░░░░░░░░░░░░░]")
+            await pwn.edit_text("Serverlə əlaqə yaradılır...") 
+            await pwn.edit_text("♻️ Yüklənir [░░░░░░ ]") 
+            await pwn.edit_text("♻️ Yüklənir [░░░░░░░░░░░░ ]") 
+            await pwn.edit_text("♻️ Yüklənir [░░░░░░░░░░░░░░░░░░░░]")
             await pwn.delete()           
             hawk = await ryui.reply_text(
                 f"{emoji.ROBOT} ᴀᴜᴅɪᴏ ᴡʜɪᴄʜ ᴅᴜʀᴀᴛɪᴏɴ ʟᴏɴɢᴇʀ ᴛʜᴀɴ "
@@ -78,10 +78,10 @@ await pwn.edit_text("♻️ Yüklənir [░░░░░░░░░░░░░�
     playlist.append(media_aud)
     if len(playlist) == 1:
         pwn = await ryui.reply_text("Sinxronzasiya olunur @RoBotlarimTg", True) 
-await pwn.edit_text("Serverlə əlaqə yaradılır...") 
-await pwn.edit_text("♻️ Yüklənir [░░░░░░ ]") 
-await pwn.edit_text("♻️ Yüklənir [░░░░░░░░░░░░ ]") 
-await pwn.edit_text("♻️ Yüklənir [░░░░░░░░░░░░░░░░░░░░]")
+        await pwn.edit_text("Serverlə əlaqə yaradılır...") 
+        await pwn.edit_text("♻️ Yüklənir [░░░░░░ ]") 
+        await pwn.edit_text("♻️ Yüklənir [░░░░░░░░░░░░ ]") 
+        await pwn.edit_text("♻️ Yüklənir [░░░░░░░░░░░░░░░░░░░░]")
         await pwn.delete() 
         m_status = await ryui.reply_text(
             f"一═デ︻ **ֆɦɨռɨɢǟʍɨ_Rʏʊӄ** ︻デ═一"
