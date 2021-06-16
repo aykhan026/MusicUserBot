@@ -24,11 +24,11 @@ DYNO_COMMAND = Li.DYNO_COMMAND
                    & filters.command("pause", prefixes=DYNO_COMMAND)
                    ) 
 async def pause_playing(_, ryui: Message):
-    pwn = await ryui.reply_text("Syncing with @vrtxmusic", True)
-    await pwn.edit_text("and it's servers...")
-    await pwn.edit_text("ETR: > sec[░░░░░░              ]")
-    await pwn.edit_text("ETR: > sec[░░░░░░░░░░░░        ]")
-    await pwn.edit_text("ETR: > sec[░░░░░░░░░░░░░░░░░░░░]")
+    pwn = await ryui.reply_text("Sinxronzasiya olunur @RoBotlarimTg", True) 
+await pwn.edit_text("Serverlə əlaqə yaradılır...") 
+await pwn.edit_text("♻️ Yüklənir [░░░░░░ ]") 
+await pwn.edit_text("♻️ Yüklənir [░░░░░░░░░░░░ ]") 
+await pwn.edit_text("♻️ Yüklənir [░░░░░░░░░░░░░░░░░░░░]")
     await pwn.delete() 
     ded.voice_chatting.pause_playout()
     await ded.update_start_time(reset=True)
@@ -43,7 +43,7 @@ async def pause_playing(_, ryui: Message):
 """
 \__/        \__/        \__/        \__/        \__/  
 /  \        /  \        /  \        /  \        /  \ 
-               ☠爪闩丂ㄒ㠪尺爪工𝓝ᗪᐯ尺ㄒ乂☠
+               aykhan_s
 \__/        \__/        \__/        \__/        \__/  
 /  \        /  \        /  \        /  \        /  \ 
 """ 
