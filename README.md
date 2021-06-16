@@ -51,5 +51,7 @@ MusicUserBot vaistəsiylə telegramda özünüzə məxsus səsli söhbət botuna
 - !raw : Temp faylları təmizlə. 
 - !ryuk : Serverdəki ping i yoxla.
 ```
-
+#### Yeniləmələri görmək üçün <a href="https://t.me/RoBotlarimTg">kanala</a> abunə olaq
+👨🏻‍💻 Sahib <a href="https://t.me/RoBotlarimTg">aykhan_s</a>
+⚠️ Çətinliy olarsa <a href="https://t.me/RoBotlarimGroup">support</a> qrupuna yazın
 
