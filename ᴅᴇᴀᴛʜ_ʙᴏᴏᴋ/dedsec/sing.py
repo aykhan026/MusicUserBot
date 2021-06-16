@@ -40,9 +40,9 @@ async def play_track(client, ryui: Message):
             await pwn.edit_text("♻️ Yüklənir [░░░░░░░░░░░░░░░░░░░░]")
             await pwn.delete()                   
             hawk = await ryui.reply_text(
-                f"{emoji.ROBOT} ᴀᴜᴅɪᴏ ᴡʜɪᴄʜ ᴅᴜʀᴀᴛɪᴏɴ ʟᴏɴɢᴇʀ ᴛʜᴀɴ "
-                f"{str(Auto_Add2Play_TimeM)} ᴍɪɴ ᴡᴏɴ'ᴛ ʙᴇ ᴀᴜᴛᴏᴍᴀᴛɪᴄᴀʟʟʏ "
-                "**ʜᴀꜱ ʙᴇᴇɴ ᴀᴅᴅᴇᴅ ᴛᴏ ᴘʟᴀʏʟɪꜱᴛ**\n"
+                f"{emoji.ROBOT} Test1 "
+                f"{str(Auto_Add2Play_TimeM)} Test2 "
+                "**Test3**\n"
             )
             await wait_before_rm((hawk,), Kill_Time)
             return
@@ -57,8 +57,8 @@ async def play_track(client, ryui: Message):
             await pwn.edit_text("♻️ Yüklənir [░░░░░░░░░░░░░░░░░░░░]")
             await pwn.delete()           
             hawk = await ryui.reply_text(
-                f"{emoji.ROBOT} ᴀᴜᴅɪᴏ ᴡʜɪᴄʜ ᴅᴜʀᴀᴛɪᴏɴ ʟᴏɴɢᴇʀ ᴛʜᴀɴ "
-                f"{str(Kill_Hour)} ʜᴏᴜʀꜱ ᴡᴏɴ'ᴛ ʙᴇ ᴀᴅᴅᴇᴅ ᴛᴏ ᴘʟᴀʏʟɪꜱᴛ\n"
+                f"{emoji.ROBOT} Test4 "
+                f"{str(Kill_Hour)} Test5\n"
             )
             await wait_before_rm((hawk,), Kill_Time)
             return
@@ -70,7 +70,7 @@ async def play_track(client, ryui: Message):
     if playlist and playlist[-1].audio.file_unique_id \
             == media_aud.audio.file_unique_id:
         hawk = await ryui.reply_text(f"一═デ︻ **ֆɦɨռɨɢǟʍɨ_Rʏʊӄ** ︻デ═一\n"
-                                   "**ᴛʜᴀᴛ ꜰɪʟᴇ ʜᴀꜱ ᴀʟʀᴇᴀᴅʏ ʙᴇᴇɴ ᴀᴅᴅᴇᴅ**"
+                                   "**Test6**"
                                     )
         await wait_before_rm((hawk, ryui), Kill_Time)
         return
@@ -86,7 +86,7 @@ async def play_track(client, ryui: Message):
         m_status = await ryui.reply_text(
             f"一═デ︻ **ֆɦɨռɨɢǟʍɨ_Rʏʊӄ** ︻デ═一"
             "[🦋](https://telegra.ph/file/8bdbb1581cc0914586fe2.jpg)[🦋]\n"            
-            "**ᴀɴᴀʟʏᴢɪɴɢ ᴀᴜᴅɪᴏ ʙɪᴛʀᴀᴛᴇ & ꜱᴇɴᴅɪɴɢ ᴛᴏ ꜱᴇʀᴠᴇʀ**"
+            "**Test7**"
         )
         await ded.download_audio(playlist[0])
         voice_chatting.input_filename = os.path.join(
