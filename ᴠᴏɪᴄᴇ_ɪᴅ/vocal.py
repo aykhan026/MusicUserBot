@@ -40,17 +40,13 @@ class DeathCharm(object):
     async def send_playlist(self):
         playlist = self.playlist
         if not playlist:
-            pl = f"{emoji.NO_ENTRY}**Nothing is the playlist**"
+            pl = f"{emoji.NO_ENTRY}**Playlist yoxdur**"
         else:
             if len(playlist) == 1:
-                pl = f"""
-一═デ︻ **ֆɦɨռɨɢǟʍɨ_Rʏʊӄ** ︻デ═一\n🦋ʍǟֆȶɛʀʍɨռɖ-ʋʀȶӼ🦋
-✨ŇỖŴ_ƤĹÃЎĮŇĞ✨:-\n
+                pl = f"""✨**Oxunur**✨:-\n
 """
             else:
-                pl = f"""
-一═デ︻ **ֆɦɨռɨɢǟʍɨ_Rʏʊӄ** ︻デ═一\n🦋ʍǟֆȶɛʀʍɨռɖ-ʋʀȶӼ🦋
-✨ŇỖŴ_ƤĹÃЎĮŇĞ✨:-\n
+                pl = f"""✨**Oxunur**✨:-\n
 """
             pl += "\n".join([
                 f"**{i}**. **[{x.audio.title}({x.link})**"
@@ -126,14 +122,12 @@ async def network_status_changed_handler(ip: GroupCall, is_connected: bool):
     if is_connected:
         ded.chat_id = int("-100" + str(ip.full_chat.id))
         hawk = await ded.send_text(
-            f"[🦋]一═デ︻ **ֆɦɨռɨɢǟʍɨ_Rʏʊӄ** ︻デ═一[🦋]\n"
-            "          .𝕆ℕ𝕃𝕀ℕ𝔼🟢.\n"
+            f"✅ **MusicUserBot Onlayndır**\n"
             )     
         await delete_switch_on((hawk,), SWITCH_ON_TIME)              
     else:
         hawk = await ded.send_text(
-            f"[🦋]一═デ︻ **ֆɦɨռɨɢǟʍɨ_Rʏʊӄ** ︻デ═一[🦋]\n"     
-            "  .🔇𝕀𝔻𝕃𝔼_𝕄𝕆𝔻𝔼_𝔸ℂ𝕋𝕀𝕍𝔼🔇.\n"
+            f"❌ **MusicUserBot Offlayndır**\n"
             )       
         await delete_switch_off((hawk,), SWITCH_OFF_TIME)                       
         ded.chat_id = None
@@ -165,7 +159,7 @@ async def playout_ended_handler(_, __):
   \        /  \        /  \        /  \        /  \        /  \       
      \__/        \__/        \__/        \__/        \__/        \__/
      /  \        /  \        /  \        /  \        /  \        /  \
-               ☠爪闩丂ㄒ㠪尺爪工𝓝ᗪᐯ尺ㄒ乂☠
+               aykhan_s
 __/        \__/        \__/        \__/        \__/        \__/       
   \        /  \        /  \        /  \        /  \        /  \       
      \__/        \__/        \__/        \__/        \__/        \__/
