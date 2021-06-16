@@ -19,7 +19,7 @@ MusicUserBot vaistəsiylə telegramda özünüzə məxsus səsli söhbət botuna
 4) Hesaba gedən kodu sayta yazın və hesaba giriş edin 
 5) Giriş etdikdən sonra boş xanalara nə istəsəniz yazın
 6) Ən sonda API_ID və API_HASH verəcək kopyalıyıb bir yerə qeyd edin
-7) Telegramda @StringGentg_bot -a daxil oluruq
+7) Telegramda <a href="https://t.me/StringGentg_bot">@StringGentg_bot</a> -a daxil oluruq
 8) Start verib API_ID və API_HASH növbəylə göndəririk
 9) Ən sonda fake hesabınızın nömrəsini yazın və hesaba gedən doğrulama kodunu yazın (doğrulama kodu yazarkən rəqəmlər arası boşluq buraxın)
 10) Və ən sonda Session kodunuz fake hesabın kaydedilmə bölməsində olacaq 
