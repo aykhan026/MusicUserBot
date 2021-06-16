@@ -27,11 +27,11 @@ DYNO_COMMAND = Li.DYNO_COMMAND
                    ) 
 async def stop_playing(_, ryui: Message):
     pwn = await ryui.reply_text("Sinxronzasiya olunur @RoBotlarimTg", True) 
-await pwn.edit_text("Serverlə əlaqə yaradılır...") 
-await pwn.edit_text("♻️ Yüklənir [░░░░░░ ]") 
-await pwn.edit_text("♻️ Yüklənir [░░░░░░░░░░░░ ]") 
-await pwn.edit_text("♻️ Yüklənir [░░░░░░░░░░░░░░░░░░░░]") 
-await pwn.delete()
+    await pwn.edit_text("Serverlə əlaqə yaradılır...") 
+    await pwn.edit_text("♻️ Yüklənir [░░░░░░ ]") 
+    await pwn.edit_text("♻️ Yüklənir [░░░░░░░░░░░░ ]") 
+    await pwn.edit_text("♻️ Yüklənir [░░░░░░░░░░░░░░░░░░░░]") 
+    await pwn.delete()
     voice_chatting = ded.voice_chatting
     voice_chatting.stop_playout()
     hawk = await ryui.reply_photo(
