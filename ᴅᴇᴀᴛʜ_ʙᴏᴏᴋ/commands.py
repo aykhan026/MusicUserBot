@@ -25,11 +25,11 @@ WHITE_COMMAND = Li.WHITE_COMMAND
                    ) 
 async def show_help(_, ryui: Message):
     if ded.msg.get('cmd') is not None:
-        pwn = await ryui.reply_text("Syncing with @vrtxmusic", True)
-        await pwn.edit_text("and it's servers...")
-        await pwn.edit_text("ETR: > sec[░░░░░░              ]")
-        await pwn.edit_text("ETR: > sec[░░░░░░░░░░░░        ]")
-        await pwn.edit_text("ETR: > sec[░░░░░░░░░░░░░░░░░░░░]")  
+        pwn = await ryui.reply_text("Sinxronzasiya olunur @RoBotlarimTg", True)
+        await pwn.edit_text("♻️ Serverlə əlaqə qurulur...")
+        await pwn.edit_text("♻️ Yüklənir [░░░░░░              ]")
+        await pwn.edit_text("♻️ Yüklənir [░░░░░░░░░░░░        ]")
+        await pwn.edit_text("♻️ Yüklənir [░░░░░░░░░░░░░░░░░░░░]")  
         await pwn.delete()            
         await ded.msg['cmd'].delete()
     ded.msg['cmd'] = hawk = await ryui.reply_photo(
@@ -51,7 +51,7 @@ async def delete_command_blue(messages: tuple, delay: int):
 """
 \__/        \__/        \__/        \__/        \__/  
 /  \        /  \        /  \        /  \        /  \ 
-               ☠爪闩丂ㄒ㠪尺爪工𝓝ᗪᐯ尺ㄒ乂☠
+                    aykhan_s 
 \__/        \__/        \__/        \__/        \__/  
 /  \        /  \        /  \        /  \        /  \ 
 """   
