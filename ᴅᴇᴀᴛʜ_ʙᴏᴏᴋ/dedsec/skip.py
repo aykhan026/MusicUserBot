@@ -53,9 +53,7 @@ async def skip_track(_, ryui: Message):
             await pwn.edit_text("♻️ Yüklənir [░░░░░░░░░░░░░░░░░░░░]")
             await pwn.delete() 
             hawk = await ryui.reply_text(
-                f"一═デ︻ **ֆɦɨռɨɢǟʍɨ_Rʏʊӄ** ︻デ═一"
-                "[🦋](https://telegra.ph/file/8bdbb1581cc0914586fe2.jpg)[🦋]\n"
-                "**ɪɴᴠᴀʟɪᴅ ɪɴᴘᴜᴛ.ᴘʟᴇᴀꜱᴇ ʀᴇᴄʜᴇᴄᴋ ꜰɪʟᴇ ᴛʏᴘᴇ.**",    
+                f"**Musiqini dəyişdirdim**",    
                                 disable_web_page_preview=True
                                 )
         await wait_before_rm((hawk, ryui), Kill_Time)
