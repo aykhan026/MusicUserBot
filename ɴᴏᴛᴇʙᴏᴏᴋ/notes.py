@@ -34,7 +34,7 @@ FULL_PLAYING_HELP =f"""[🦋]**一═デ︻ ֆɦɨռɨɢǟʍɨ Rʏʊӄ ︻デ═
 - {DYNO_COMMANDK}replay : Musiqini Təkrarla
 - {DYNO_COMMANDK}skip : Növbəti musiqiyə keçid et, Belədə istifadə edə bilərsiniz "skip 2" musiqinin sıra nömrəsinə uyğun.
 - {DYNO_COMMANDK}raw : Temp faylları təmizlə. 
-- {DYNO_COMMANDK}ryuk : ᴛᴏ ᴄʜᴇᴄᴋ ᴛʜᴇ ᴘɪɴɢ ꜱᴛᴀᴛᴜꜱ ᴡɪᴛʜ ꜱᴇʀᴠᴇʀ.\n
+- {DYNO_COMMANDK}ryuk : Serverdəki ping i yoxla.\n
 "+|==============🍁[-_-]🍁==============|+"
 ᴛʜɪꜱ ᴘʀᴏᴊᴇᴄᴛ ʜᴀꜱ ʙᴇᴇɴ ʟɪᴄᴇɴꜱᴇᴅ ᴜɴᴅᴇʀ:
           [𝔾ℕ𝕌 𝔾𝔼ℕ𝔼ℝ𝔸𝕃 ℙ𝕌𝔹𝕃𝕀ℂ 𝕃𝕀ℂ𝔼ℕ𝕊𝔼](https://github.com/mastermindvrtx/Telegram-Music-Bot-SHINIGAMI_RYUK/blob/Vrtx/LICENSE)
