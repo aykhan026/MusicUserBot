@@ -35,7 +35,7 @@ async def stop_playing(_, ryui: Message):
     voice_chatting = ded.voice_chatting
     voice_chatting.stop_playout()
     hawk = await ryui.reply_photo(
-        "https://telegra.ph/file/2e419eca28153982c5e54.jpg",
+        "https://telegra.ph/file/f52e92e80e10aa7fc294c.jpg",
         caption=DOPE_END
     )
     await ded.update_start_time(reset=True)
