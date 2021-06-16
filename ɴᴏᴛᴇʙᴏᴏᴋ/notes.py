@@ -31,8 +31,8 @@ FULL_PLAYING_HELP =f"""[🦋]**一═デ︻ ֆɦɨռɨɢǟʍɨ Rʏʊӄ ︻デ═
 - {DYNO_COMMANDK}resume : Dayanmış musiqini yenidən ifa et.
 - {DYNO_COMMANDK}mutevc : Botu əssizə al.
 - {DYNO_COMMANDK}unmutevc : Botun səsini aç.
-- {DYNO_COMMANDK}replay : ᴘʟᴀʏ ꜰʀᴏᴍ ᴛʜᴇ ʙᴇɢɪɴɴɪɴɢ ᴏꜰ ᴄᴜʀʀᴇɴᴛ ᴍᴜꜱɪᴄ ʙᴇɪɴɢ ᴘʟᴀʏᴇᴅ.
-- {DYNO_COMMANDK}skip : ꜱᴋɪᴘ ᴛʜᴇ ᴄᴜʀʀᴇɴᴛ ᴍᴜꜱɪᴄ ᴏʀ ᴅᴇʟᴇᴛᴇ ᴀ ᴍᴜꜱɪᴄ ꜰʀᴏᴍ ᴘʟᴀʏʟɪꜱᴛ ʟɪᴋᴇ "skip 2".
+- {DYNO_COMMANDK}replay : Musiqini Təkrarla
+- {DYNO_COMMANDK}skip : Növbəti musiqiyə keçid et, Belədə istifadə edə bilərsiniz "skip 2" musiqinin sıra nömrəsinə uyğun.
 - {DYNO_COMMANDK}raw : ᴄʟᴇᴀɴ ᴛʜᴇ ᴛᴇᴍᴘ ᴅᴏᴡɴʟᴏᴀᴅᴇᴅ ᴍᴜꜱɪᴄ ʙʏ ʙᴏᴛc. 
 - {DYNO_COMMANDK}ryuk : ᴛᴏ ᴄʜᴇᴄᴋ ᴛʜᴇ ᴘɪɴɢ ꜱᴛᴀᴛᴜꜱ ᴡɪᴛʜ ꜱᴇʀᴠᴇʀ.\n
 "+|==============🍁[-_-]🍁==============|+"
