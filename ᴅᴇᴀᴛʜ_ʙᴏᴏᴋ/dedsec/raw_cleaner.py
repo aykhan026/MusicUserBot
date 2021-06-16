@@ -40,7 +40,7 @@ async def clean_raw_pcm(client, ryui: Message):
                 files += 1
                 os.remove(os.path.join(raw_hug, fn))             
     hawk = await ryui.reply_text(
-        f"一═デ︻ **ֆɦɨռɨɢǟʍɨ_Rʏʊӄ** ︻デ═一\n ɴᴜᴍʙᴇʀ ᴏꜰ ᴄʟᴇᴀɴᴇᴅ ᴛᴇᴍᴘ ꜰɪʟᴇ: **{files}**"
+        f"**RoBotlarimTg**\n Silinən temp faylları: **{files}**"
                     )
     await ryui.delete()
     await wait_before_rm((hawk, ryui), Kill_Time)
