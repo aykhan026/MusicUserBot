@@ -4,10 +4,10 @@
 
 
 
-## Haqqında
+## ℹ️ Haqqında
 MusicUserBot vaistəsiylə telegramda özünüzə məxsus səsli söhbət botuna sahib olacaqsınız
 
-## Qurulum
+## ⬇️ Qurulum
 ###### Sizə lazım olanlar;
 1) Fake hesab
 2) API_ID API_HASH
@@ -24,11 +24,13 @@ MusicUserBot vaistəsiylə telegramda özünüzə məxsus səsli söhbət botuna
 9) Ən sonda fake hesabınızın nömrəsini yazın və hesaba gedən doğrulama kodunu yazın (doğrulama kodu yazarkən rəqəmlər arası boşluq buraxın)
 10) Və ən sonda Session kodunuz fake hesabın kaydedilmə bölməsində olacaq 
 11) Artıq hər şey tamamdır Deploy buttonuna vuraraq MusicUserBotu heroku hesabınıza deploy edin )
+12) Deploy prosesi bitdikdən sonra dynonu açmağı unutmayın
+12) Çətinliy olarsa <a href="https://t.me/RoBotlarimGroup">support</a> qrupuna yazın
+-👉 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/aykhan026/MusicUserBot.git)
 
--📍 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/aykhan026/MusicUserBot.git)
 
-
-## Əmrlər
+## 👇 Əmrlər
+⚠️ Əmrlərdən istifadə etmək üçün UserBot qurduğunuz profillə qarşılıqlı kantakt edin
 👨🏻‍🦱 İstifadəçilər üçün
 ```sh
 .sing:      *- Cavabladığınız musiqini səsli söhbətə qoşar, Playlisti yoxlamaq üçündə istifadə olunur
