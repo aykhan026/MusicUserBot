@@ -1,16 +1,8 @@
-"""
-     /  \        /  \        /  \        /  \        /  \        /  \
-__/        \__/        \__/        \__/        \__/        \__/       
-  \        /  \        /  \        /  \        /  \        /  \       
-     \__/        \__/        \__/        \__/        \__/        \__/
-                       MusicUserBot    
-                       RoBotlarimTg   
-                         aykhan_s    
-     /  \        /  \        /  \        /  \        /  \        /  \
-__/        \__/        \__/        \__/        \__/        \__/       
-  \        /  \        /  \        /  \        /  \        /  \       
-     \__/        \__/        \__/        \__/        \__/        \__/
-"""   
+# RoBotlarimTg - MusicUserBot
+# Burdan hər hansı modulu kodu faylı reponu
+# Kopyalayan peysərdi..!!!!
+# Sahib - @aykhan_s
+
 from ᴋɪʀᴀ_ʟɪɢʜᴛ.pyro_auth import Li
 
 DYNO_COMMANDK = Li.DYNO_COMMAND
