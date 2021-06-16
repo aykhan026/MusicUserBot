@@ -35,8 +35,8 @@ async def unmute(client, ryui: Message):
     chat = await client.get_chat(chat_id)  
     voice_chatting.set_is_mute(False)
     hawk = await ryui.reply_photo(
-            "https://telegra.ph/file/8bdbb1581cc0914586fe2.jpg",   
-            caption=f"[🦋]一═デ︻ **ֆɦɨռɨɢǟʍɨ_Rʏʊӄ** ︻デ═一[🦋]\nᴜꜱᴇʀʙᴏᴛ ʜᴀꜱ **🎶Unmuted** ɪᴛꜱᴇʟꜰ \n**{chat.title}**"
+            "https://telegra.ph/file/f52e92e80e10aa7fc294c.jpg",   
+            caption=f"🔊 **Oxumağa başladım\n {chat.title}**"
             )  
     await delay_unmute_tm((hawk, ryui), Kill_Time)
 
