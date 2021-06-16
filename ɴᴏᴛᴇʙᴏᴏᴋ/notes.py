@@ -29,8 +29,8 @@ FULL_PLAYING_HELP =f"""[🦋]**一═デ︻ ֆɦɨռɨɢǟʍɨ Rʏʊӄ ︻デ═
 - {DYNO_COMMANDK}group : Olduğu qrupları göstərəcək.
 - {DYNO_COMMANDK}pause : Musiqini müvəqqəti dayandır.
 - {DYNO_COMMANDK}resume : Dayanmış musiqini yenidən ifa et.
-- {DYNO_COMMANDK}mutevc : ᴍᴜᴛᴇ ɢʀᴏᴜᴘ ᴠᴏɪᴄᴇᴄᴀʟʟ!.
-- {DYNO_COMMANDK}unmutevc : ᴜɴᴍᴜᴛᴇ ɢʀᴏᴜᴘ ᴠᴏɪᴄᴇᴄᴀʟʟ!.
+- {DYNO_COMMANDK}mutevc : Botu əssizə al.
+- {DYNO_COMMANDK}unmutevc : Botun səsini aç.
 - {DYNO_COMMANDK}replay : ᴘʟᴀʏ ꜰʀᴏᴍ ᴛʜᴇ ʙᴇɢɪɴɴɪɴɢ ᴏꜰ ᴄᴜʀʀᴇɴᴛ ᴍᴜꜱɪᴄ ʙᴇɪɴɢ ᴘʟᴀʏᴇᴅ.
 - {DYNO_COMMANDK}skip : ꜱᴋɪᴘ ᴛʜᴇ ᴄᴜʀʀᴇɴᴛ ᴍᴜꜱɪᴄ ᴏʀ ᴅᴇʟᴇᴛᴇ ᴀ ᴍᴜꜱɪᴄ ꜰʀᴏᴍ ᴘʟᴀʏʟɪꜱᴛ ʟɪᴋᴇ "skip 2".
 - {DYNO_COMMANDK}raw : ᴄʟᴇᴀɴ ᴛʜᴇ ᴛᴇᴍᴘ ᴅᴏᴡɴʟᴏᴀᴅᴇᴅ ᴍᴜꜱɪᴄ ʙʏ ʙᴏᴛc. 
