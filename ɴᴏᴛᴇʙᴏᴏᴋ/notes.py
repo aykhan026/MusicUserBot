@@ -10,11 +10,11 @@ WHITE_COMMANDK = Li.WHITE_COMMAND
 
 
 FULL_PLAYING_HELP =f"""👨🏻‍💻 **RoBotlarimTg MusicUserBot**\nMesajlar avtomatik silinir\n
-.Əsas Əmrlər
+📣**Əsas Əmrlər**\nBu əmrlər **.** ilə işlədilir
 - {WHITE_COMMANDK}sing : Cavabladığınız musiqini səsli söhbətə qoşar
 - {WHITE_COMMANDK}sing : Playlisti yoxlamaq üçündə istifadə olunur
 - {WHITE_COMMANDK}now : Oxunan musiqinin neçənci saniyədə olsuğunu göstərər.\n
-Bütün Əmrlər
+📣**Bütün Əmrlər**\Bu əmrlər **!** ilə işlədilir
 - {DYNO_COMMANDK}on : Səsli söhbətə qoşulacaq.
 - {DYNO_COMMANDK}off : Səsli söhbətdən çıxacaq.
 - {DYNO_COMMANDK}endvc : Musiqini dayandıracaq.
@@ -29,7 +29,7 @@ Bütün Əmrlər
 - {DYNO_COMMANDK}ryuk : Serverdəki ping i yoxla.\n
 👉Yeniləmələr üçün kanala abunə olun
 @RoBotlarimTg
-👨🏻‍💻Sahib
+👨🏻‍💻**Sahib**
 @aykhan_s
 """
 
