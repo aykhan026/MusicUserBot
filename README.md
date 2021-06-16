@@ -20,7 +20,7 @@
 
 -🌱 [![Generic badge](https://img.shields.io/badge/REPLIT-ֆɦɨռɨɢǟʍɨ_Rʏʊӄ-white.svg)](https://replit.com/@mastermindvrtx/ShinigamiRyukPyrogramSesion#main.py) Get your pyrogram session string 
 
--📍 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/mastermindvrtx/Telegram-Music-Bot-SHINIGAMI_RYUK.git/tree/Vrtx) Enable the dyno in heroku if u deployed ur bot in Heroku
+-📍 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/aykhan026/MusicUserBot.git) Enable the dyno in heroku if u deployed ur bot in Heroku
 
 -📍 [🐳 𝗗𝗢𝗖𝗞𝗘𝗥-𝗖𝗢𝗡𝗧𝗔𝗜𝗡𝗘𝗥 🐳](Dockerfile)
 
