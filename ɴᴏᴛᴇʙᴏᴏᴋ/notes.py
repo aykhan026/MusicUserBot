@@ -43,5 +43,5 @@ Bütün Əmrlər
 
 
 
-DOPE_END = f"[🦋]一═デ︻ **ֆɦɨռɨɢǟʍɨ_Rʏʊӄ** ︻デ═一[🦋]\n\n**⏹Stopped Singing**"
+DOPE_END = f"**⏹Oxumağı Dayandırdım**"
 
