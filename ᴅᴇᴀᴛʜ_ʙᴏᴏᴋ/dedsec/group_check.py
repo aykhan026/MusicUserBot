@@ -1,15 +1,8 @@
-"""
-     /  \        /  \        /  \        /  \        /  \        /  \
-__/        \__/        \__/        \__/        \__/        \__/       
-  \        /  \        /  \        /  \        /  \        /  \       
-     \__/        \__/        \__/        \__/        \__/        \__/
-            𝔻𝕠𝕟❜𝕥 𝕂𝕒𝕟𝕘 𝕋𝕙𝕖 ℝ𝕖𝕡𝕠 𝕨𝕚𝕥𝕙𝕠𝕦𝕥 𝕤𝕥𝕒𝕣𝕚𝕟𝕘 𝕒𝕟𝕕 𝕗𝕠𝕣𝕜𝕚𝕟𝕘...     
-                        🅼🅰🆂🆃🅴🆁🅼🅸🅽🅳🆅🆁🆃🆇    
-     /  \        /  \        /  \        /  \        /  \        /  \
-__/        \__/        \__/        \__/        \__/        \__/       
-  \        /  \        /  \        /  \        /  \        /  \       
-     \__/        \__/        \__/        \__/        \__/        \__/
-"""   
+# RoBotlarimTg - MusicUserBot
+# Burdan hər hansı modulu kodu faylı reponu
+# Kopyalayan peysərdi..!!!!
+# Sahib - @aykhan_s
+   
 import asyncio
 from pyrogram import Client, filters, emoji
 from pyrogram.types import Message
