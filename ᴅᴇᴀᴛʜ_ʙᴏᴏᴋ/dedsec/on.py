@@ -28,10 +28,10 @@ async def join_voice_chatting(client, ryui: Message):
     voice_chatting.client = client
     if voice_chatting.is_connected:
         pwn = await ryui.reply_text("Sinxronzasiya olunur @RoBotlarimTg", True) 
-await pwn.edit_text("Serverlə əlaqə yaradılır...") 
-await pwn.edit_text("♻️ Yüklənir [░░░░░░ ]") 
-await pwn.edit_text("♻️ Yüklənir [░░░░░░░░░░░░ ]") 
-await pwn.edit_text("♻️ Yüklənir [░░░░░░░░░░░░░░░░░░░░]")   
+        await pwn.edit_text("Serverlə əlaqə yaradılır...") 
+        await pwn.edit_text("♻️ Yüklənir [░░░░░░ ]") 
+        await pwn.edit_text("♻️ Yüklənir [░░░░░░░░░░░░ ]") 
+        await pwn.edit_text("♻️ Yüklənir [░░░░░░░░░░░░░░░░░░░░]")   
         await pwn.delete()          
         await ryui.reply_text(
             f"                         .一═デ︻ **ֆɦɨռɨɢǟʍɨ_Rʏʊӄ** ︻デ═一"
