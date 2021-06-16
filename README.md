@@ -13,7 +13,7 @@ Sizə lazım olanlar;
 2) API_ID API_HASH
 3) Session kodu
 
-###### Fake hesab açmağı yəginki bilirsiz
+Fake hesab açmağı yəginki bilirsiz
 API_ID və API_HASH üçün Bu linkə daxil olun https://my.telegram.org/ 
 Fake hesabın nömrəsini yazın 
 Hesaba gedən kodu sayta yazın və hesaba giriş edin 
