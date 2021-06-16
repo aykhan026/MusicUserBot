@@ -32,9 +32,7 @@ async def resume_playing(_, ryui: Message):
     await pwn.edit_text("♻️ Yüklənir [░░░░░░░░░░░░░░░░░░░░]")
     await pwn.delete()  
     hawk = await ryui.reply_text(
-            f"一═デ︻ **ֆɦɨռɨɢǟʍɨ_Rʏʊӄ** ︻デ═一"
-            "[🦋](https://telegra.ph/file/0f0a508854eebdf8cd693.jpg)[🦋]\n\n\n"
-            "**▶️ʀᴇꜱᴜᴍᴇᴅ ᴘʟᴀʏɪɴɢ ᴍᴜꜱɪᴄ**",
+            f"**▶️ Dayanan musiqini yenidən başlatdım**",
                                 quote=False
                                 )
     ded.voice_chatting.resume_playout()
@@ -55,7 +53,7 @@ async def wait_before_rm(messages: tuple, delay: int):
 """
 \__/        \__/        \__/        \__/        \__/  
 /  \        /  \        /  \        /  \        /  \ 
-               ☠aykhan_s 🙄
+               ☠aykhan_s 😳
 \__/        \__/        \__/        \__/        \__/  
 /  \        /  \        /  \        /  \        /  \ 
 """ 
