@@ -28,14 +28,17 @@
       },
       "SESSION_NAME": {
               "description": "Session string, read the README to learn how to export it with Pyrogram",
+              "value": "Asia/Baku",
               "required": true
       },
       "DYNO_COMMAND": {
-        "description": "Which prefix do you want to use for owner commands? EX- / !",
+        "description": "Bu bölməyə əl vurmayın",
+        "value": "!",
         "required": true
       },
       "WHITE_COMMAND": {
-       "description": "Which prefix do you want to use for group users? EX- ~ .",
+       "description": "Bu bölməyə əl vurmayın",
+       "value": ".",
          "required": true
       }
     },
