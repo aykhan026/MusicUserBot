@@ -4,15 +4,24 @@
 
 
 
-## Qeyd
-## ωσякιηg ιηѕтαη¢є ? 🚀
-- [![Generic badge](https://img.shields.io/badge/@vrtxmusic-group-white.svg)](https://t.me/vrtxmusic) The working userbot instance can be found here 
-                                                            
-- [![Generic badge](https://img.shields.io/badge/@vrtxwork-channel-white.svg)](https://t.me/vrtxwork/37) Channel for updates 
+## Haqqında
+MusicUserBot vaistəsiylə telegramda özünüzə məxsus səsli söhbət botuna sahib olacaqsınız
 
-## ♢----------------------------------------------> нσω тσ ∂єρℓσу ?   ⚜️
+## Qurulum
+Sizə lazım olanlar;
+1) Fake hesab
+2) API_ID API_HASH
+3) Session kodu
 
--🌱 [![Generic badge](https://img.shields.io/badge/REPLIT-ֆɦɨռɨɢǟʍɨ_Rʏʊӄ-white.svg)](https://replit.com/@mastermindvrtx/ShinigamiRyukPyrogramSesion#main.py) Get your pyrogram session string 
+Fake hesab açmağı yəginki bilirsiz
+API_ID və API_HASH üçün Bu linkə daxil olun https://my.telegram.org/
+Fake hesabın nömrəsini yazın 
+Hesaba gedən kodu sayta yazın və hesaba giriş edin
+Giriş etdikdən sonra boş xanalara nə istəsəniz yazın
+Ən sonda API_ID və API_HASH verəcək kopyalıyıb bir yerə qeyd edin
+
+
+
 
 -📍 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/aykhan026/MusicUserBot.git) Enable the dyno in heroku if u deployed ur bot in Heroku
 
