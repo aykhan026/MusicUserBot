@@ -43,13 +43,13 @@ class DeathCharm(object):
             pl = f"{emoji.NO_ENTRY}**Playlist yoxdur**"
         else:
             if len(playlist) == 1:
-                pl = f"""✨**Oxunur**✨:\n
+                pl = f"""🎧**Səslənir**🎧:\n
 """
             else:
-                pl = f"""✨**Oxunur**✨:\n
+                pl = f"""🎧**Səslənir**🎧:\n
 """
             pl += "\n".join([
-                f"**{i}**. **[{x.audio.title}({x.link})**"
+                f"**{i}**. **[{x.audio.title}]({x.link})**"
                 for i, x in enumerate(playlist)
             ])
         if self.msg.get('playlist') is not None:
@@ -122,12 +122,12 @@ async def network_status_changed_handler(ip: GroupCall, is_connected: bool):
     if is_connected:
         ded.chat_id = int("-100" + str(ip.full_chat.id))
         hawk = await ded.send_text(
-            f"✅ **MusicUserBot Onlayndır**\n"
+            f"✅ **Səsli söhbətə qoşuldum**\n"
             )     
         await delete_switch_on((hawk,), SWITCH_ON_TIME)              
     else:
         hawk = await ded.send_text(
-            f"❌ **MusicUserBot Offlayndır**\n"
+            f"❌ **Səsli söhbətdən ayrıldım**\n"
             )       
         await delete_switch_off((hawk,), SWITCH_OFF_TIME)                       
         ded.chat_id = None
