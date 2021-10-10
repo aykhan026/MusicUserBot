@@ -18,11 +18,11 @@
       "voip"
    ],
     "env": {
-      "API_ID": {
+      "5432203": {
               "description": "api_id Burdan əldə edin - my.telegram.org/apps",
               "required": true
       },
-      "API_HASH": {
+      "a9ed96520bb929281b8e22f30c888fee": {
               "description": "api_hash Burdan əldə edin my.telegram.org/apps",
               "required": true
       },
