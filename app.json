@@ -18,15 +18,15 @@
       "voip"
    ],
     "env": {
-      "API_ID": {
+      "API_ID": {14884817
               "description": "api_id Burdan əldə edin - my.telegram.org/apps",
               "required": true
       },
-      "API_HASH": {
+      "API_HASH": {f0bc9519bd536c4c7b49c9d32a3ddc17
               "description": "api_hash Burdan əldə edin my.telegram.org/apps",
               "required": true
       },
-      "SESSION_NAME": {
+      "SESSION_NAME": {AQC4VFgzxKaSMPL70ufwlytTjP1Rso9OMx-S4NCHGqrB9F6aSNMaFcJ2FIEz0Ojg68-TBbW46YPv3jkxzC7nN2mV-lgXEjQKt52Nt0vxvq1hhxUj9DqhLWyf_eGAy8Y7QtDqrVnYi1Q5DGxa8t2V2WLfAEjxnBITfYY0f4TotCo8So7oohvoy27ESwlQpgORzMtYt5eQUpDE5V2DiJk4MFZRNnFXzfXtdfb41mjxWDeXqNzjhxzWuRl4Y9ru7R_oAOhmDo-Uietwz1QsctdqyMPQ6HPOSWXQt-yAs14Y61tsocQ-AAmmlixRKn1iGwLcyYutMn1YOKPmFaEMHg4YRI8VjkdaAA
               "description": "@StringGentg_bot api_hash və api_id göndərərək Session əldə edib bura yazın",
               "value": "@StringGentg_bot vaistəsiylə əldə edin",
               "required": true
