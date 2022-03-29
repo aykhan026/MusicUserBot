@@ -53,7 +53,7 @@ async def ping_pong(_, ryui: Message):
     await pwn.edit_text("♻️ Yüklənir [░░░░░░░░░░░░░░░░░░░░]")
     delta_ping = time() - start
     hawk = await pwn.edit_text(
-        f"""**RoBotlarimTg** 👨🏻‍💻 @aykhan_s\n        
+        f"""**LEDY MUSİC**\n        
 **Bəli, Mən aktivəm**:
         `{delta_ping * 1000:.3f}ms`"""
     )
