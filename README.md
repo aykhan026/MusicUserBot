@@ -54,7 +54,7 @@ MusicUserBot vaistəsiylə telegramda özünüzə məxsus səsli söhbət botuna
 - !ryuk : Serverdəki ping i yoxla.
 ```
 #### Yeniləmələri görmək üçün <a href="https://t.me/Ballasresmi">kanala</a> abunə olaq
-👨🏻‍💻 Sahib <a href="https://t.me/Ballasresmi">aykhan_s</a>
+👨🏻‍💻 Sahib <a href="https://t.me/Ballasresmi">BOT_RAMO</a>
 
 ⚠️ Çətinliy olarsa <a href="https://t.me/Ballasresmi">support</a> qrupuna yazın
 
