@@ -1,7 +1,8 @@
-# RoBotlarimTg - MusicUserBot
+
+# Ballasresmi - MusicUserBot
 # Burdan hər hansı modulu kodu faylı reponu
 # Kopyalayan peysərdi..!!!!
-# Sahib - @aykhan_s
+# Sahib - @BOT_RAMO
 
 from pyrogram import Client, filters
 from pyrogram.types import Message
@@ -24,7 +25,7 @@ DYNO_COMMAND = Li.DYNO_COMMAND
                    & filters.command("pause", prefixes=DYNO_COMMAND)
                    ) 
 async def pause_playing(_, ryui: Message):
-    pwn = await ryui.reply_text("Sinxronzasiya olunur @RoBotlarimTg", True) 
+    pwn = await ryui.reply_text("Sinxronzasiya olunur @Ballasresmi", True) 
     await pwn.edit_text("Serverlə əlaqə yaradılır...") 
     await pwn.edit_text("♻️ Yüklənir [░░░░░░ ]") 
     await pwn.edit_text("♻️ Yüklənir [░░░░░░░░░░░░ ]") 
@@ -41,7 +42,7 @@ async def pause_playing(_, ryui: Message):
 """
 \__/        \__/        \__/        \__/        \__/  
 /  \        /  \        /  \        /  \        /  \ 
-               aykhan_s
+               BOT_RAMO
 \__/        \__/        \__/        \__/        \__/  
 /  \        /  \        /  \        /  \        /  \ 
-""" 
+"""

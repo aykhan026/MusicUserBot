@@ -1,7 +1,8 @@
-# RoBotlarimTg - MusicUserBot
+
+# Ballasresmi - MusicUserBot
 # Burdan hər hansı modulu kodu faylı reponu
 # Kopyalayan peysərdi..!!!!
-# Sahib - @aykhan_s
+# Sahib - @BOT_RAMO
 
 import asyncio
 from pyrogram import Client, filters
@@ -34,7 +35,7 @@ async def leave_voice_chat(_, ryui: Message):
 """
 \__/        \__/        \__/        \__/        \__/  
 /  \        /  \        /  \        /  \        /  \ 
-               aykhan_s
+               BOT_RAMO
 \__/        \__/        \__/        \__/        \__/  
 /  \        /  \        /  \        /  \        /  \ 
 """ 

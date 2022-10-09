@@ -1,7 +1,7 @@
-# RoBotlarimTg - MusicUserBot
+# Ballasresmi - MusicUserBot
 # Burdan hər hansı modulu kodu faylı reponu
 # Kopyalayan peysərdi..!!!!
-# Sahib - @aykhan_s
+# Sahib - @BOT_RAMO
     
     
 "+|==========================================🍁----------[-_-]----------🍁==============================================|+"
@@ -25,7 +25,7 @@ SWITCH_OFF_TIME = 4
 """
 \__/        \__/        \__/        \__/        \__/  
 /  \        /  \        /  \        /  \        /  \ 
-               aykhan_s
+               BOT_RAMO
 \__/        \__/        \__/        \__/        \__/  
 /  \        /  \        /  \        /  \        /  \ 
 """

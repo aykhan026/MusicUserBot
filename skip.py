@@ -1,7 +1,8 @@
-# RoBotlarimTg - MusicUserBot
+
+# Ballasresmi - MusicUserBot
 # Burdan hər hansı modulu kodu faylı reponu
 # Kopyalayan peysərdi..!!!!
-# Sahib - @aykhan_s
+# Sahib - @BOT_RAMK
 
 import os
 import asyncio
@@ -46,7 +47,7 @@ async def skip_track(_, ryui: Message):
             hawk = await ryui.reply_text("\n".join(text))
             await ded.send_playlist()
         except (ValueError, TypeError):
-            pwn = await ryui.reply_text("Sinxronzasiya olunur @RoBotlarimTg", True) 
+            pwn = await ryui.reply_text("Sinxronzasiya olunur @Ballasresmi", True) 
             await pwn.edit_text("Serverlə əlaqə yaradılır...") 
             await pwn.edit_text("♻️ Yüklənir [░░░░░░ ]") 
             await pwn.edit_text("♻️ Yüklənir [░░░░░░░░░░░░ ]") 
@@ -69,7 +70,7 @@ async def wait_before_rm(messages: tuple, delay: int):
 """
 \__/        \__/        \__/        \__/        \__/  
 /  \        /  \        /  \        /  \        /  \ 
-               ☠aykhan_s☠
+               ☠BOT_RAMO☠
 \__/        \__/        \__/        \__/        \__/  
 /  \        /  \        /  \        /  \        /  \ 
 """ 

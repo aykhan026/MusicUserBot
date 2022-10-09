@@ -1,11 +1,12 @@
+
 """
      /  \        /  \        /  \        /  \        /  \        /  \
 __/        \__/        \__/        \__/        \__/        \__/       
   \        /  \        /  \        /  \        /  \        /  \       
      \__/        \__/        \__/        \__/        \__/        \__/
                     UserBot Başladıldı...     
-                       RoBotlarimTg   
-                         aykhan_s
+                       Ballasresmi   
+                         BOT_RAMO
      /  \        /  \        /  \        /  \        /  \        /  \
 __/        \__/        \__/        \__/        \__/        \__/       
   \        /  \        /  \        /  \        /  \        /  \       
@@ -21,21 +22,16 @@ __/        \__/        \__/        \__/        \__/        \__/
 DES_ME = """
  \____/ /  \ \____/ /  \ \____/ /  \ \____/ /  \ \____/ /  \ \____/ / 
                    UserBot Başladıldı...     
-                       RoBotlarimTg   
-                         aykhan_s
+                       Ballasresmi   
+                         BOT_RAMO
  / __ \ \__/ / __ \ \__/ / __ \ \__/ / __ \ \__/ / __ \ \__/ / __ \ \_
-
-
-👉 Bizi Telegramda İzləyin t.me/RoBotlarimTg
-👨🏻‍💻 @aykhan_s
-
-
-
+👉 Bizi Telegramda İzləyin t.me/Ballasresmi
+👨🏻‍💻 @BOT_RAMO
 \__/        \__/        \__/        \__/        \__/  
 /  \        /  \        /  \        /  \        /  \ 
                      UserBot İşləyir...     
-                       RoBotlarimTg   
-                         aykhan_s
+                       Ballastesmi   
+                         BOT_RAMO
 \__/        \__/        \__/        \__/        \__/  
 /  \        /  \        /  \        /  \        /  \ 
 """
@@ -50,22 +46,16 @@ DED_ME = """
 ✅Hər Şey Qaydasındadır...
  \____/ /  \ \____/ /  \ \____/ /  \ \____/ /  \ \____/ /  \ \____/ / 
                      UserBot İşləyir...     
-                       RoBotlarimTg   
-                         aykhan_s
+                       Ballasresmi   
+                         BOT_RAMO
  / __ \ \__/ / __ \ \__/ / __ \ \__/ / __ \ \__/ / __ \ \__/ / __ \ \_
-
-
-
-
-👉 Bizi Telegramda İzləyin t.me/RoBotlarimTg
-👨🏻‍💻 @aykhan_s
-
-
+👉 Bizi Telegramda İzləyin t.me/Ballasresmi
+👨🏻‍💻 @BOT_RAMO
 \__/        \__/        \__/        \__/        \__/  
 /  \        /  \        /  \        /  \        /  \ 
                      UserBot İşləyir...     
-                       RoBotlarimTg   
-                         aykhan_s
+                       Ballasresmi   
+                         BOT_RAMO
 \__/        \__/        \__/        \__/        \__/  
 /  \        /  \        /  \        /  \        /  \ 
 """

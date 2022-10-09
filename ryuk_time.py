@@ -1,7 +1,8 @@
-# RoBotlarimTg - MusicUserBot
+
+# Ballasresmi - MusicUserBot
 # Burdan hər hansı modulu kodu faylı reponu
 # Kopyalayan peysərdi..!!!!
-# Sahib - @aykhan_s
+# Sahib - @BOT_RAMO
 
 import asyncio
 from time import time
@@ -46,14 +47,14 @@ self_or_contact_filter = filters.create(
                    ) 
 async def ping_pong(_, ryui: Message):
     start = time()
-    pwn = await ryui.reply_text("Sinxronzasiya olunur @RoBotlarimTg", True)
+    pwn = await ryui.reply_text("Sinxronzasiya olunur @Ballasresmi", True)
     await pwn.edit_text("Serverlə əlaqə qurulur...")
     await pwn.edit_text("♻️ Yüklənir [░░░░░░              ]")
     await pwn.edit_text("♻️ Yüklənir [░░░░░░░░░░░░        ]")
     await pwn.edit_text("♻️ Yüklənir [░░░░░░░░░░░░░░░░░░░░]")
     delta_ping = time() - start
     hawk = await pwn.edit_text(
-        f"""**RoBotlarimTg** 👨🏻‍💻 @aykhan_s\n        
+        f"""**Ballasresmi** 👨🏻‍💻 @BOT_RAMO\n        
 **Bəli, Mən aktivəm**:
         `{delta_ping * 1000:.3f}ms`"""
     )
@@ -72,7 +73,7 @@ async def delete_ryuk(messages: tuple, delay: int):
   \        /  \        /  \        /  \        /  \        /  \       
      \__/        \__/        \__/        \__/        \__/        \__/
      /  \        /  \        /  \        /  \        /  \        /  \
-  🇦🇿👉   \  aykhan_s \  bu tağı hələ çox yerdə görəcəksiniz...) /
+  🇦🇿👉   \  BOT_RAMO \  bu tağı hələ çox yerdə görəcəksiniz...) /
 __/        \__/        \__/        \__/        \__/        \__/       
   \        /  \        /  \        /  \        /  \        /  \       
      \__/        \__/        \__/        \__/        \__/        \__/

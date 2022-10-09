@@ -1,17 +1,19 @@
-# RoBotlarimTg - MusicUserBot
+
+# Ballasresmi - MusicUserBot
 # Burdan hər hansı modulu kodu faylı reponu
 # Kopyalayan peysərdi..!!!!
-# Sahib - @aykhan_s
-   
+# Sahib - @BOT_RAMO
+
 import os
 import asyncio
 from pyrogram import Client, filters
+from pyrogram.methods.messages.download_media import DEFAULT_DOWNLOAD_DIR as fmedaddyy
 from pyrogram.types import Message
 from ᴠᴏɪᴄᴇ_ɪᴅ.typos import *
 from ᴠᴏɪᴄᴇ_ɪᴅ.vocal import *
 from ɴᴏᴛᴇʙᴏᴏᴋ.notes import *
-from ᴍɪꜱᴀ_ᴀᴍᴀɴᴇ.red_eye import *
 from ᴍɪꜱᴀ_ᴀᴍᴀɴᴇ.life_death import *
+from ᴍɪꜱᴀ_ᴀᴍᴀɴᴇ.red_eye import *
 from ᴋɪʀᴀ_ʟɪɢʜᴛ.pyro_auth import Li
 
 """
@@ -23,25 +25,27 @@ DYNO_COMMAND = Li.DYNO_COMMAND
 @Client.on_message(demon_killer_sigki
                    & senzo_kryo_ni
                    & misa_misa
-                   & filters.command("endvc", prefixes=DYNO_COMMAND)
+                   & filters.command("raw", prefixes=DYNO_COMMAND)
                    ) 
-async def stop_playing(_, ryui: Message):
-    pwn = await ryui.reply_text("Sinxronzasiya olunur @RoBotlarimTg", True) 
-    await pwn.edit_text("Serverlə əlaqə yaradılır...") 
-    await pwn.edit_text("♻️ Yüklənir [░░░░░░ ]") 
-    await pwn.edit_text("♻️ Yüklənir [░░░░░░░░░░░░ ]") 
-    await pwn.edit_text("♻️ Yüklənir [░░░░░░░░░░░░░░░░░░░░]") 
-    await pwn.delete()
-    voice_chatting = ded.voice_chatting
-    voice_chatting.stop_playout()
-    hawk = await ryui.reply_photo(
-        "https://telegra.ph/file/f52e92e80e10aa7fc294c.jpg",
-        caption=DOPE_END
-    )
-    await ded.update_start_time(reset=True)
-    ded.playlist.clear()
+async def clean_raw_pcm(client, ryui: Message):
+    raw_hug = os.path.join(client.workdir, fmedaddyy)
+    all_fn: list[str] = os.listdir(raw_hug)
+    for track in ded.playlist[:2]:
+        track_fn = f"{track.audio.file_unique_id}.raw"
+        if track_fn in all_fn:
+            all_fn.remove(track_fn)
+    files = 0
+    if all_fn:
+        for fn in all_fn:
+            if fn.endswith(".raw"):
+                files += 1
+                os.remove(os.path.join(raw_hug, fn))             
+    hawk = await ryui.reply_text(
+        f"**RoBotlarimTg**\n Silinən temp faylları: **{files}**"
+                    )
+    await ryui.delete()
     await wait_before_rm((hawk, ryui), Kill_Time)
-    
+    return
     
 "+|==========================================🍁----------[-_-]----------🍁==============================================|+"
 
@@ -53,7 +57,7 @@ async def wait_before_rm(messages: tuple, delay: int):
 """
 \__/        \__/        \__/        \__/        \__/  
 /  \        /  \        /  \        /  \        /  \ 
-            🔞çox qurdalama🔞  aykhan_s 🙋🏻‍♂️
+               BOT_RAMO
 \__/        \__/        \__/        \__/        \__/  
 /  \        /  \        /  \        /  \        /  \ 
 """ 

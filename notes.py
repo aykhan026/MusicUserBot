@@ -1,7 +1,8 @@
-# RoBotlarimTg - MusicUserBot
+
+# Ballasresmi - MusicUserBot
 # Burdan hər hansı modulu kodu faylı reponu
 # Kopyalayan peysərdi..!!!!
-# Sahib - @aykhan_s
+# Sahib - @BOT_RAMO
 
 from ᴋɪʀᴀ_ʟɪɢʜᴛ.pyro_auth import Li
 
@@ -9,7 +10,7 @@ DYNO_COMMANDK = Li.DYNO_COMMAND
 WHITE_COMMANDK = Li.WHITE_COMMAND
 
 
-FULL_PLAYING_HELP =f"""👨🏻‍💻 **RoBotlarimTg MusicUserBot**\nMesajlar avtomatik silinir\n
+FULL_PLAYING_HELP =f"""👨🏻‍💻 **Ballasresmi MusicUserBot**\nMesajlar avtomatik silinir\n
 📣**Əsas Əmrlər**\nBu əmrlər **.** ilə işlədilir
 - {WHITE_COMMANDK}sing : Cavabladığınız musiqini səsli söhbətə qoşar
 - {WHITE_COMMANDK}sing : Playlisti yoxlamaq üçündə istifadə olunur
@@ -28,12 +29,11 @@ FULL_PLAYING_HELP =f"""👨🏻‍💻 **RoBotlarimTg MusicUserBot**\nMesajlar a
 - {DYNO_COMMANDK}raw : Temp faylları təmizlə. 
 - {DYNO_COMMANDK}ryuk : Serverdəki ping i yoxla.\n
 👉Yeniləmələr üçün kanala abunə olun
-@RoBotlarimTg
+@Ballasresmi
 👨🏻‍💻**Sahib**
-@aykhan_s
+@BOT_RAMO
 """
 
 
 
 DOPE_END = f"**⏹Oxumağı Dayandırdım**"
-

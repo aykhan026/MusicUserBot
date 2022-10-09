@@ -1,8 +1,8 @@
 
-# RoBotlarimTg - MusicUserBot
+# Ballasresmi - MusicUserBot
 # Burdan hər hansı modulu kodu faylı reponu
 # Kopyalayan peysərdi..!!!!
-# Sahib - @aykhan_s
+# Sahib - @BOT_RAMO
 
 import os
 import ffmpeg
@@ -159,8 +159,8 @@ async def playout_ended_handler(_, __):
   \        /  \        /  \        /  \        /  \        /  \       
      \__/        \__/        \__/        \__/        \__/        \__/
      /  \        /  \        /  \        /  \        /  \        /  \
-               aykhan_s
+               BOT_RAMO
 __/        \__/        \__/        \__/        \__/        \__/       
   \        /  \        /  \        /  \        /  \        /  \       
      \__/        \__/        \__/        \__/        \__/        \__/
-""" 
+"""

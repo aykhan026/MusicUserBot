@@ -1,6 +1,5 @@
 # 🔊 MusicUserBot
-## <a href="https://t.me/RoBotlarimTg">👨🏻‍💻 RoBotlarimTg</a>
-<img src="https://telegra.ph/file/f52e92e80e10aa7fc294c.jpg" align="centre"/>
+## <a href="https://t.me/Ballasresmi">👨🏻‍💻 Ballasresmi</a>
 
 
 
@@ -53,8 +52,8 @@ MusicUserBot vaistəsiylə telegramda özünüzə məxsus səsli söhbət botuna
 - !raw : Temp faylları təmizlə. 
 - !ryuk : Serverdəki ping i yoxla.
 ```
-#### Yeniləmələri görmək üçün <a href="https://t.me/RoBotlarimTg">kanala</a> abunə olaq
-👨🏻‍💻 Sahib <a href="https://t.me/RoBotlarimTg">aykhan_s</a>
+#### Yeniləmələri görmək üçün <a href="https://t.me/Ballasresmi">kanala</a> abunə olaq
+👨🏻‍💻 Sahib <a href="https://t.me/Ballasresmi">BOT_RAMO</a>
 
-⚠️ Çətinliy olarsa <a href="https://t.me/RoBotlarimGroup">support</a> qrupuna yazın
+⚠️ Çətinliy olarsa <a href="https://t.me/Ballasresmi">support</a> qrupuna yazın
 

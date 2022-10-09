@@ -1,7 +1,7 @@
-# RoBotlarimTg - MusicUserBot
+# Ballasresmi - MusicUserBot
 # Burdan hər hansı modulu kodu faylı reponu
 # Kopyalayan peysərdi..!!!!
-# Sahib - @aykhan_s
+# Sahib - @BOT_RAMO
 
 import os
 import asyncio
@@ -33,7 +33,7 @@ async def play_track(client, ryui: Message):
     # check audio
     if ryui.audio:
         if ryui.audio.duration > (Auto_Add2Play_TimeM * 60):
-            pwn = await ryui.reply_text("Sinxronzasiya olunur @RoBotlarimTg", True) 
+            pwn = await ryui.reply_text("Sinxronzasiya olunur @Ballasresmi", True) 
             await pwn.edit_text("Serverlə əlaqə yaradılır...") 
             await pwn.edit_text("♻️ Yüklənir [░░░░░░ ]") 
             await pwn.edit_text("♻️ Yüklənir [░░░░░░░░░░░░ ]") 
@@ -50,7 +50,7 @@ async def play_track(client, ryui: Message):
     elif ryui.reply_to_message and ryui.reply_to_message.audio:
         media_aud = ryui.reply_to_message
         if media_aud.audio.duration > (Kill_Hour * 60 * 60):
-            pwn = await ryui.reply_text("Sinxronzasiya olunur @RoBotlarimTg", True) 
+            pwn = await ryui.reply_text("Sinxronzasiya olunur @Ballasresmi", True) 
             await pwn.edit_text("Serverlə əlaqə yaradılır...") 
             await pwn.edit_text("♻️ Yüklənir [░░░░░░ ]") 
             await pwn.edit_text("♻️ Yüklənir [░░░░░░░░░░░░ ]") 
@@ -76,7 +76,7 @@ async def play_track(client, ryui: Message):
     # add to playlist
     playlist.append(media_aud)
     if len(playlist) == 1:
-        pwn = await ryui.reply_text("Sinxronzasiya olunur @RoBotlarimTg", True) 
+        pwn = await ryui.reply_text("Sinxronzasiya olunur @Ballasresmi", True) 
         await pwn.edit_text("Serverlə əlaqə yaradılır...") 
         await pwn.edit_text("♻️ Yüklənir [░░░░░░ ]") 
         await pwn.edit_text("♻️ Yüklənir [░░░░░░░░░░░░ ]") 
@@ -111,7 +111,7 @@ async def wait_before_rm(messages: tuple, delay: int):
 """
 \__/        \__/        \__/        \__/        \__/  
 /  \        /  \        /  \        /  \        /  \ 
-             🤦🏻‍♂️   aykhan_s☠
+             🤦🏻‍♂️   BOT_RAMO☠
 \__/        \__/        \__/        \__/        \__/  
 /  \        /  \        /  \        /  \        /  \ 
-""" 
+""
